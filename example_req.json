@@ -1,0 +1,5072 @@
+{
+   "count": 10000,
+   "list": [
+      {
+         "id": "377e9c21-03ab-4828-9d72-c7de60b8064a",
+         "link": "https://ballchasing.com/api/replays/377e9c21-03ab-4828-9d72-c7de60b8064a",
+         "rocket_league_id": "EC7A00AD4356FF3D1092CF934CCDB7D2",
+         "replay_title": "2023-01-13.23.59 Wet Mullet Ranked Doubles Loss",
+         "map_code": "cs_day_p",
+         "map_name": "Champions Field (Day)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 381,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:44-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:45.533967Z",
+         "min_rank": {
+            "tier": 18,
+            "division": 3,
+            "name": "Champion III Division 3",
+            "id": "champion-3"
+         },
+         "max_rank": {
+            "tier": 19,
+            "division": 2,
+            "name": "Grand Champion I Division 2",
+            "id": "grand-champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561199149135541",
+            "name": "joshxnz",
+            "profile_url": "https://steamcommunity.com/profiles/76561199149135541/",
+            "avatar": "https://avatars.akamai.steamstatic.com/ffa0f406643c787337514df6b2d63a83ef9ce767.jpg"
+         },
+         "blue": {
+            "goals": 6,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 381.44556,
+                  "name": "Le Dagger",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199016914029"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 19,
+                     "division": 1,
+                     "name": "Grand Champion I Division 1",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 892
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 381.44556,
+                  "name": "mattgoldy",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "mattgoldy"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 3,
+                     "name": "Champion III Division 3",
+                     "id": "champion-3"
+                  },
+                  "score": 829
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 381.44556,
+                  "name": "Wet Mullet",
+                  "id": {
+                     "platform": "epic",
+                     "id": "9d01f23f83b140c4bfb7d574fe123cfa"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 2,
+                     "name": "Grand Champion I Division 2",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 594
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 381.44556,
+                  "name": "Aithan",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198272002505"
+                  },
+                  "score": 508
+               }
+            ]
+         }
+      },
+      {
+         "id": "137dc38d-de3d-4a3a-9dbe-643f225c2cd6",
+         "link": "https://ballchasing.com/api/replays/137dc38d-de3d-4a3a-9dbe-643f225c2cd6",
+         "rocket_league_id": "1FF4CE1C4C46F0D8DE82ECA175350B9B",
+         "replay_title": "2023-01-14.01.00 Shaka Ranked Standard Loss",
+         "map_code": "stadium_day_p",
+         "map_name": "DFH Stadium (Day)",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 324,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T01:00:53-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:44.737072Z",
+         "min_rank": {
+            "tier": 20,
+            "division": 2,
+            "name": "Grand Champion II Division 2",
+            "id": "grand-champion-2"
+         },
+         "max_rank": {
+            "tier": 21,
+            "division": 2,
+            "name": "Grand Champion III Division 2",
+            "id": "grand-champion-3"
+         },
+         "uploader": {
+            "steam_id": "76561198197735838",
+            "name": "Shaka",
+            "profile_url": "https://steamcommunity.com/profiles/76561198197735838/",
+            "avatar": "https://avatars.akamai.steamstatic.com/ac2b4349c343a28c273469db4c80fd216c5f0b66.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.93314,
+                  "name": "Forsaken Donger",
+                  "id": {
+                     "platform": "epic",
+                     "id": "6f9d97f59ff84e259f23ec2077824707"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 20,
+                     "division": 3,
+                     "name": "Grand Champion II Division 3",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 338
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.93314,
+                  "name": "lessendvoid",
+                  "id": {
+                     "platform": "epic",
+                     "id": "74a19822cac649139551404d5b26adc4"
+                  },
+                  "rank": {
+                     "tier": 21,
+                     "division": 2,
+                     "name": "Grand Champion III Division 2",
+                     "id": "grand-champion-3"
+                  },
+                  "score": 258
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.93314,
+                  "name": "Gypper031",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198201278378"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 2,
+                     "name": "Grand Champion II Division 2",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 250
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.93314,
+                  "name": "Ag0n1ze.",
+                  "id": {
+                     "platform": "epic",
+                     "id": "982d8c8ce6854a1b9aa5ecb93a63b325"
+                  },
+                  "score": 362
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.93314,
+                  "name": "jobro.",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198799220354"
+                  },
+                  "score": 271
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.93314,
+                  "name": "Shaka",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198197735838"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 3,
+                     "name": "Grand Champion II Division 3",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 236
+               }
+            ]
+         }
+      },
+      {
+         "id": "98403658-89df-46aa-9aeb-4fbc6e622d0d",
+         "link": "https://ballchasing.com/api/replays/98403658-89df-46aa-9aeb-4fbc6e622d0d",
+         "rocket_league_id": "9A45F8AD4F5EE519C366D6B6B310C404",
+         "replay_title": "2023-01-14.00.59 OTR_Skidzii Casual Duel Loss",
+         "map_code": "park_rainy_p",
+         "map_name": "Beckwith Park (Stormy)",
+         "playlist_id": "unranked-duels",
+         "playlist_name": "Unranked Duels",
+         "duration": 363,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:31-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:41.010392Z",
+         "uploader": {
+            "steam_id": "76561198278521423",
+            "name": "Skidzii",
+            "profile_url": "https://steamcommunity.com/profiles/76561198278521423/",
+            "avatar": "https://avatars.akamai.steamstatic.com/f8fdcb0e3da10859eaa377099ae3fc8269051cac.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 363.36276,
+                  "name": "z1psum za3",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "b3adf9bef9010900"
+                  },
+                  "mvp": true,
+                  "score": 615
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 363.36276,
+                  "name": "OTR_Skidzii",
+                  "id": {
+                     "platform": "epic",
+                     "id": "31cf78946e444305855334c5822badce"
+                  },
+                  "score": 522
+               }
+            ]
+         }
+      },
+      {
+         "id": "dc23329e-2f4a-422f-bbe9-39ed2fb317ed",
+         "link": "https://ballchasing.com/api/replays/dc23329e-2f4a-422f-bbe9-39ed2fb317ed",
+         "rocket_league_id": "226B70D840BCB7D4A44A139C85F531EF",
+         "replay_title": "2023-01-14.00.59 Son of Brangee Ranked Snowday Loss",
+         "map_code": "stadium_winter_p",
+         "map_name": "DFH Stadium (Snowy)",
+         "playlist_id": "ranked-snowday",
+         "playlist_name": "Ranked SnowDay",
+         "duration": 173,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:38-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:40.025005Z",
+         "min_rank": {
+            "tier": 10,
+            "division": 3,
+            "name": "Platinum I Division 3",
+            "id": "platinum-1"
+         },
+         "max_rank": {
+            "tier": 15,
+            "division": 3,
+            "name": "Diamond III Division 3",
+            "id": "diamond-3"
+         },
+         "uploader": {
+            "steam_id": "76561198175671814",
+            "name": "Sealclap.ttv",
+            "profile_url": "https://steamcommunity.com/id/sealclap/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bb/bb9e36635ae903007e2f87648a9a587ad13e4e13.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 173.51474,
+                  "name": "Drinking antifreeze",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198264236980"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 15,
+                     "division": 1,
+                     "name": "Diamond III Division 1",
+                     "id": "diamond-3"
+                  },
+                  "score": 346
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 173.51474,
+                  "name": "Honeybox.&",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198931712071"
+                  },
+                  "rank": {
+                     "tier": 10,
+                     "division": 3,
+                     "name": "Platinum I Division 3",
+                     "id": "platinum-1"
+                  },
+                  "score": 256
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 173.51474,
+                  "name": "Spy o Six",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198073922385"
+                  },
+                  "rank": {
+                     "tier": 13,
+                     "division": 3,
+                     "name": "Diamond I Division 3",
+                     "id": "diamond-1"
+                  },
+                  "score": 88
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 173.51474,
+                  "name": "Troubadour",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198019583040"
+                  },
+                  "score": 146
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 173.51474,
+                  "name": "Son of Brangee",
+                  "id": {
+                     "platform": "epic",
+                     "id": "85870030fcbc4d65ac56cbae2b3e2c42"
+                  },
+                  "rank": {
+                     "tier": 15,
+                     "division": 3,
+                     "name": "Diamond III Division 3",
+                     "id": "diamond-3"
+                  },
+                  "score": 133
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 173.51474,
+                  "name": "Celery Man",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198045217251"
+                  },
+                  "score": 40
+               }
+            ]
+         }
+      },
+      {
+         "id": "b28c950c-0e55-4d31-a347-38695d7a7de2",
+         "link": "https://ballchasing.com/api/replays/b28c950c-0e55-4d31-a347-38695d7a7de2",
+         "rocket_league_id": "D15F718741F90E3B3B03508781ECB66D",
+         "replay_title": "2023-01-14.00.59 Slewed Ranked Doubles Win",
+         "map_code": "beach_night_p",
+         "map_name": "Salty Shores (Night)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 388,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:41-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:37.43103Z",
+         "min_rank": {
+            "tier": 17,
+            "division": 2,
+            "name": "Champion II Division 2",
+            "id": "champion-2"
+         },
+         "max_rank": {
+            "tier": 17,
+            "division": 4,
+            "name": "Champion II Division 4",
+            "id": "champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561199059345950",
+            "name": "Slewed",
+            "profile_url": "https://steamcommunity.com/id/Slewedblock5088/",
+            "avatar": "https://avatars.akamai.steamstatic.com/16d465a6f1e904d3b43b33f6232b358475c035e4.jpg"
+         },
+         "blue": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 388.08313,
+                  "name": "ColeLang16",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "ColeLang16"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 631
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 388.08313,
+                  "name": "Derekdekleine10",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Derekdekleine10"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 549
+               }
+            ]
+         },
+         "orange": {
+            "goals": 5,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 388.08313,
+                  "name": "Slewed",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199059345950"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 956
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 388.08313,
+                  "name": "Enkero",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "39b9bccff3010900"
+                  },
+                  "score": 602
+               }
+            ]
+         }
+      },
+      {
+         "id": "9dac8c83-1b0b-4dd7-87a0-3eb1bce3fb8a",
+         "link": "https://ballchasing.com/api/replays/9dac8c83-1b0b-4dd7-87a0-3eb1bce3fb8a",
+         "rocket_league_id": "D9D84AC1484CF58D1B9351A1B55F1C21",
+         "replay_title": "2023-01-13.23.59 Hat_Dad_Gaming Private Loss",
+         "map_code": "park_p",
+         "map_name": "Beckwith Park",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 389,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:34-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:37.317282Z",
+         "uploader": {
+            "steam_id": "76561198124382150",
+            "name": "Hat_Dad_Gaming",
+            "profile_url": "https://steamcommunity.com/profiles/76561198124382150/",
+            "avatar": "https://avatars.akamai.steamstatic.com/631b11ef8bc07f6e847fccbe1e8148fdd41401ef.jpg"
+         },
+         "blue": {
+            "name": "2",
+            "goals": 7,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 389.81122,
+                  "name": "NotoriousDrewBee",
+                  "id": {
+                     "platform": "epic",
+                     "id": "566e63f394444bccbe7eaf7dea60011d"
+                  },
+                  "mvp": true,
+                  "score": 1177
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 389.81122,
+                  "name": "llToxic_Dripll",
+                  "id": {
+                     "platform": "epic",
+                     "id": "a0260508a58545a285792aca8a0188c0"
+                  },
+                  "score": 374
+               }
+            ]
+         },
+         "orange": {
+            "name": "OTHER TEAM",
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 389.81122,
+                  "name": "feelmybarrel",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198987103259"
+                  },
+                  "score": 857
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 389.81122,
+                  "name": "FithAce",
+                  "id": {
+                     "platform": "epic",
+                     "id": "547bed54d37041b28989f53807bd0028"
+                  },
+                  "score": 70
+               }
+            ]
+         }
+      },
+      {
+         "id": "28c4d1d1-7d3c-48cc-8651-1e40e2b60828",
+         "link": "https://ballchasing.com/api/replays/28c4d1d1-7d3c-48cc-8651-1e40e2b60828",
+         "rocket_league_id": "D9D12BE143DC0AC962760D96839036EB",
+         "replay_title": "2023-01-13.23.59 FithAce Private Loss",
+         "map_code": "park_p",
+         "map_name": "Beckwith Park",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 389,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:35-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:36.744211Z",
+         "uploader": {
+            "steam_id": "76561199104071581",
+            "name": "cginn",
+            "profile_url": "https://steamcommunity.com/profiles/76561199104071581/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d0/d0729dbe38b8e33e20ec5ebe1979d0468122a0fe.jpg"
+         },
+         "blue": {
+            "name": "2",
+            "goals": 7,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 389.37854,
+                  "name": "NotoriousDrewBee",
+                  "id": {
+                     "platform": "epic",
+                     "id": "566e63f394444bccbe7eaf7dea60011d"
+                  },
+                  "mvp": true,
+                  "score": 1177
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 389.37854,
+                  "name": "llToxic_Dripll",
+                  "id": {
+                     "platform": "epic",
+                     "id": "a0260508a58545a285792aca8a0188c0"
+                  },
+                  "score": 374
+               }
+            ]
+         },
+         "orange": {
+            "name": "OTHER TEAM",
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 389.37854,
+                  "name": "feelmybarrel",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198987103259"
+                  },
+                  "score": 857
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 389.37854,
+                  "name": "FithAce",
+                  "id": {
+                     "platform": "epic",
+                     "id": "547bed54d37041b28989f53807bd0028"
+                  },
+                  "score": 70
+               }
+            ]
+         }
+      },
+      {
+         "id": "cb2a3234-3c37-4452-b2f6-56f1d665aa4c",
+         "link": "https://ballchasing.com/api/replays/cb2a3234-3c37-4452-b2f6-56f1d665aa4c",
+         "rocket_league_id": "2D0E218549EEA779857AF1B7306A0EEA",
+         "replay_title": "2023-01-13.23.59 RedRaiderKG Ranked Standard Loss",
+         "map_code": "cs_p",
+         "map_name": "Champions Field",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 341,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:34-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:35.986787Z",
+         "min_rank": {
+            "tier": 13,
+            "division": 2,
+            "name": "Diamond I Division 2",
+            "id": "diamond-1"
+         },
+         "max_rank": {
+            "tier": 14,
+            "division": 1,
+            "name": "Diamond II Division 1",
+            "id": "diamond-2"
+         },
+         "uploader": {
+            "steam_id": "76561199379451278",
+            "name": "kevin.genarie",
+            "profile_url": "https://steamcommunity.com/profiles/76561199379451278/",
+            "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 341.588,
+                  "name": "Mr Al Cappuccino",
+                  "id": {
+                     "platform": "epic",
+                     "id": "549d91d409684df0b79153832ebd922d"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 13,
+                     "division": 3,
+                     "name": "Diamond I Division 3",
+                     "id": "diamond-1"
+                  },
+                  "score": 557
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 341.588,
+                  "name": "Aidan West",
+                  "id": {
+                     "platform": "epic",
+                     "id": "abaa11d06db14f2d94e05a5b8371df38"
+                  },
+                  "rank": {
+                     "tier": 13,
+                     "division": 4,
+                     "name": "Diamond I Division 4",
+                     "id": "diamond-1"
+                  },
+                  "score": 328
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 341.588,
+                  "name": "Depryve",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198839038819"
+                  },
+                  "rank": {
+                     "tier": 13,
+                     "division": 2,
+                     "name": "Diamond I Division 2",
+                     "id": "diamond-1"
+                  },
+                  "score": 188
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 341.588,
+                  "name": "RedRaiderKG",
+                  "id": {
+                     "platform": "epic",
+                     "id": "18284d185a144983813c9598c9f00a6b"
+                  },
+                  "rank": {
+                     "tier": 14,
+                     "division": 1,
+                     "name": "Diamond II Division 1",
+                     "id": "diamond-2"
+                  },
+                  "score": 243
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 341.588,
+                  "name": "UncleBonesaw",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "7cf0cebcf6010900"
+                  },
+                  "score": 130
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 341.588,
+                  "name": "Wahaaaay",
+                  "id": {
+                     "platform": "psynet",
+                     "id": "2e70e9bca6daf286"
+                  },
+                  "score": 100
+               }
+            ]
+         }
+      },
+      {
+         "id": "cf5562ab-5856-49c2-b367-189a7812b69d",
+         "link": "https://ballchasing.com/api/replays/cf5562ab-5856-49c2-b367-189a7812b69d",
+         "rocket_league_id": "D6A93D604785E8E4934D2D83EAA488A5",
+         "replay_title": "2023-01-13.23.59 FreeTheNips Ranked Standard Win",
+         "map_code": "cs_day_p",
+         "map_name": "Champions Field (Day)",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 335,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:38-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:34.789901Z",
+         "min_rank": {
+            "tier": 11,
+            "division": 2,
+            "name": "Platinum II Division 2",
+            "id": "platinum-2"
+         },
+         "max_rank": {
+            "tier": 14,
+            "division": 1,
+            "name": "Diamond II Division 1",
+            "id": "diamond-2"
+         },
+         "uploader": {
+            "steam_id": "76561197960935312",
+            "name": "Bergle",
+            "profile_url": "https://steamcommunity.com/profiles/76561197960935312/",
+            "avatar": "https://avatars.akamai.steamstatic.com/6a1bb05822eb5654a5faaa607abdcc2e6ec4fe73.jpg"
+         },
+         "blue": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 335.96884,
+                  "name": "h_khan98",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "h_khan98"
+                  },
+                  "rank": {
+                     "tier": 14,
+                     "division": 1,
+                     "name": "Diamond II Division 1",
+                     "id": "diamond-2"
+                  },
+                  "score": 372
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 335.96884,
+                  "name": "frazwaleed",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "frazwaleed"
+                  },
+                  "rank": {
+                     "tier": 11,
+                     "division": 2,
+                     "name": "Platinum II Division 2",
+                     "id": "platinum-2"
+                  },
+                  "score": 156
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 335.96884,
+                  "name": "Solid-_Rekt",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Solid-_Rekt"
+                  },
+                  "rank": {
+                     "tier": 14,
+                     "division": 1,
+                     "name": "Diamond II Division 1",
+                     "id": "diamond-2"
+                  },
+                  "score": 150
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 335.96884,
+                  "name": "ttvAlpha_Leader",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "ttvAlpha_Leader"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 13,
+                     "division": 4,
+                     "name": "Diamond I Division 4",
+                     "id": "diamond-1"
+                  },
+                  "score": 457
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 335.96884,
+                  "name": "TreqXV",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "15ed795ef6010900"
+                  },
+                  "rank": {
+                     "tier": 13,
+                     "division": 4,
+                     "name": "Diamond I Division 4",
+                     "id": "diamond-1"
+                  },
+                  "score": 346
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 335.96884,
+                  "name": "FreeTheNips",
+                  "id": {
+                     "platform": "epic",
+                     "id": "0104f69af8e84bd084361f4052012dcb"
+                  },
+                  "rank": {
+                     "tier": 13,
+                     "division": 4,
+                     "name": "Diamond I Division 4",
+                     "id": "diamond-1"
+                  },
+                  "score": 82
+               }
+            ]
+         }
+      },
+      {
+         "id": "ea4175d8-36fa-4a9a-a5d6-8d7b3f0c2dbf",
+         "link": "https://ballchasing.com/api/replays/ea4175d8-36fa-4a9a-a5d6-8d7b3f0c2dbf",
+         "rocket_league_id": "B82E5C254B5999FC77CBF2AA6C9F903D",
+         "replay_title": "2023-01-14.00.59 Venmo $5 @jrrussell42 = I throw Ranked Doubles Win",
+         "map_code": "park_rainy_p",
+         "map_name": "Beckwith Park (Stormy)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 402,
+         "overtime": true,
+         "overtime_seconds": 26,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:31-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:34.588162Z",
+         "min_rank": {
+            "tier": 19,
+            "division": 1,
+            "name": "Grand Champion I Division 1",
+            "id": "grand-champion-1"
+         },
+         "max_rank": {
+            "tier": 19,
+            "division": 3,
+            "name": "Grand Champion I Division 3",
+            "id": "grand-champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561198867582479",
+            "name": "Venmo $5 @jrrussell42 => I throw",
+            "profile_url": "https://steamcommunity.com/id/Mathlete42/",
+            "avatar": "https://avatars.akamai.steamstatic.com/c29fb6c9033598a84eeda964fd825e6a72953fc4.jpg"
+         },
+         "blue": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 402.6502,
+                  "name": "Venmo $5 @jrrussell42 => I throw",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198867582479"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 19,
+                     "division": 2,
+                     "name": "Grand Champion I Division 2",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 705
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 402.6502,
+                  "name": "alamo",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199008598507"
+                  },
+                  "score": 650
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 402.6502,
+                  "name": "STAR",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198196259763"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 3,
+                     "name": "Grand Champion I Division 3",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 631
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 402.6502,
+                  "name": "knucls",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "b96b7dfafd010900"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 1,
+                     "name": "Grand Champion I Division 1",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 352
+               }
+            ]
+         }
+      },
+      {
+         "id": "aba9345d-36ec-4e94-a91c-e45a0d4eebea",
+         "link": "https://ballchasing.com/api/replays/aba9345d-36ec-4e94-a91c-e45a0d4eebea",
+         "rocket_league_id": "311C890B4605FAB079B0A0BEC1D79C02",
+         "replay_title": "2023-01-13.21.59 I have a migraine Casual Doubles Win",
+         "map_code": "stadium_foggy_p",
+         "map_name": "DFH Stadium (Stormy)",
+         "playlist_id": "unranked-doubles",
+         "playlist_name": "Unranked Doubles",
+         "duration": 436,
+         "overtime": true,
+         "overtime_seconds": 14,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:59:24-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:31.861117Z",
+         "uploader": {
+            "steam_id": "76561198121063119",
+            "name": "\ue014A short Baker\ue014",
+            "profile_url": "https://steamcommunity.com/id/AShortBaker/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a3/a3ed22b0d2b690d171f7884e38d162c05f5d1bca.jpg"
+         },
+         "blue": {
+            "goals": 7,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 436.69363,
+                  "name": "I have a migraine",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198121063119"
+                  },
+                  "mvp": true,
+                  "score": 644
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 436.69363,
+                  "name": "hammertimes10",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198412372263"
+                  },
+                  "score": 631
+               }
+            ]
+         },
+         "orange": {
+            "goals": 6,
+            "players": [
+               {
+                  "start_time": 88.96534,
+                  "end_time": 436.69363,
+                  "name": "JZXRD",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "7e19fb47f4010900"
+                  },
+                  "score": 771
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 436.69363,
+                  "name": "HM_Urban",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "HM_Urban"
+                  },
+                  "score": 248
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 43.123863,
+                  "name": "santab17",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198994674814"
+                  },
+                  "score": 120
+               },
+               {
+                  "start_time": 38.21252,
+                  "end_time": 93.638054,
+                  "name": "Boomer",
+                  "id": {},
+                  "score": 2
+               }
+            ]
+         }
+      },
+      {
+         "id": "09085053-48f6-410f-b562-25a9f4579863",
+         "link": "https://ballchasing.com/api/replays/09085053-48f6-410f-b562-25a9f4579863",
+         "rocket_league_id": "DAB985714661F470ED95389757593B1B",
+         "replay_title": "2023-01-14.00.57 Xappur Ranked Doubles Loss",
+         "map_code": "beach_night_p",
+         "map_name": "Salty Shores (Night)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 328,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:57:02-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:31.017592Z",
+         "min_rank": {
+            "tier": 17,
+            "division": 2,
+            "name": "Champion II Division 2",
+            "id": "champion-2"
+         },
+         "max_rank": {
+            "tier": 19,
+            "division": 1,
+            "name": "Grand Champion I Division 1",
+            "id": "grand-champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561199101530955",
+            "name": "bobby wasabee",
+            "profile_url": "https://steamcommunity.com/profiles/76561199101530955/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 328.7016,
+                  "name": "Tonycita",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199088120633"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 19,
+                     "division": 1,
+                     "name": "Grand Champion I Division 1",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 722
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 328.7016,
+                  "name": "SadBerry",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198086106977"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 366
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 328.7016,
+                  "name": "Xappur",
+                  "id": {
+                     "platform": "epic",
+                     "id": "c6c9b36f4a4040018c7e3f6359c8ee74"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 4,
+                     "name": "Champion III Division 4",
+                     "id": "champion-3"
+                  },
+                  "score": 449
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 328.7016,
+                  "name": "Wyveck",
+                  "id": {
+                     "platform": "epic",
+                     "id": "a62169a0fff549b79aa96153f116fcbe"
+                  },
+                  "score": 188
+               }
+            ]
+         }
+      },
+      {
+         "id": "2d973c00-ed7b-4305-b76e-03a082c782b4",
+         "link": "https://ballchasing.com/api/replays/2d973c00-ed7b-4305-b76e-03a082c782b4",
+         "rocket_league_id": "AAC1121A42694C7EFFD916AFE610D5B1",
+         "replay_title": "2023-01-13.23.59 PainxThriller Private Loss",
+         "map_code": "stadium_foggy_p",
+         "map_name": "DFH Stadium (Stormy)",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 324,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:25-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:30.670707Z",
+         "uploader": {
+            "steam_id": "76561198374964039",
+            "name": "PainxThriller",
+            "profile_url": "https://steamcommunity.com/profiles/76561198374964039/",
+            "avatar": "https://avatars.akamai.steamstatic.com/2dd4f936383500a09147ea064c006d983f0c1432.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.84317,
+                  "name": "M3RKK-",
+                  "id": {
+                     "platform": "epic",
+                     "id": "cf953254d6a64373a366cd71a0b81d5f"
+                  },
+                  "mvp": true,
+                  "score": 334
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.84317,
+                  "name": "arx.",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198046350719"
+                  },
+                  "score": 313
+               },
+               {
+                  "start_time": 0.26091385,
+                  "end_time": 324.84317,
+                  "name": "DespairCobra",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198195330811"
+                  },
+                  "score": 294
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.84317,
+                  "name": "Ghost",
+                  "id": {
+                     "platform": "epic",
+                     "id": "82c6a36744854cfd8195802b76a8f410"
+                  },
+                  "score": 409
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.84317,
+                  "name": "PainxThriller",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198374964039"
+                  },
+                  "score": 230
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.84317,
+                  "name": "PainxGrover",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198060858569"
+                  },
+                  "score": 182
+               }
+            ]
+         }
+      },
+      {
+         "id": "8e2d3d00-8722-41a6-9128-0bac5d94617e",
+         "link": "https://ballchasing.com/api/replays/8e2d3d00-8722-41a6-9128-0bac5d94617e",
+         "rocket_league_id": "DDDFAD1546B96B1E76FB00BC02BBBD01",
+         "replay_title": "2023-01-13.23.57 Lab_Rat_Actual Private Loss",
+         "map_code": "music_p",
+         "map_name": "Neon Fields",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 353,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:57:53-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:30.470417Z",
+         "uploader": {
+            "steam_id": "76561198210930921",
+            "name": "Lab_Rat_Actual",
+            "profile_url": "https://steamcommunity.com/profiles/76561198210930921/",
+            "avatar": "https://avatars.akamai.steamstatic.com/b97e40e2b137f191887bd0f9c075a930149d750f.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 353.21756,
+                  "name": "Deaths_Paradox",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198406110006"
+                  },
+                  "mvp": true,
+                  "score": 798
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 353.21756,
+                  "name": "BladdedShaggy",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "BladdedShaggy"
+                  },
+                  "score": 452
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 353.21756,
+                  "name": "BigAl4894",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "bdf418caf1010900"
+                  },
+                  "score": 140
+               }
+            ]
+         }
+      },
+      {
+         "id": "9840dafc-5513-4b9b-b887-61b14ee63886",
+         "link": "https://ballchasing.com/api/replays/9840dafc-5513-4b9b-b887-61b14ee63886",
+         "rocket_league_id": "80156074449DA32DAA866B8B61415B67",
+         "replay_title": "2023-01-14 Player Private Win",
+         "map_code": "music_p",
+         "map_name": "Neon Fields",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 217,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:28-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:30.111314Z",
+         "uploader": {
+            "steam_id": "76561198161924262",
+            "name": "q",
+            "profile_url": "https://steamcommunity.com/id/QS3V3N/",
+            "avatar": "https://avatars.akamai.steamstatic.com/9c430e9309b3d70fff4c45da6cd3cf4c69ce8431.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0.20676228,
+                  "end_time": 217.31866,
+                  "name": "Deaths_Paradox",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198406110006"
+                  },
+                  "mvp": true,
+                  "score": 798
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 217.31866,
+                  "name": "BladdedShaggy",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "BladdedShaggy"
+                  },
+                  "score": 452
+               },
+               {
+                  "start_time": 0.20676228,
+                  "end_time": 217.31866,
+                  "name": "BigAl4894",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "bdf418caf1010900"
+                  },
+                  "score": 140
+               }
+            ]
+         }
+      },
+      {
+         "id": "d6740dea-5f57-4523-8909-b05e8c5a25ee",
+         "link": "https://ballchasing.com/api/replays/d6740dea-5f57-4523-8909-b05e8c5a25ee",
+         "rocket_league_id": "4CA44E2748B3CF2CBC90238B31C45CC6",
+         "replay_title": "2023-01-13.23.59 DespairCobra Private Win",
+         "map_code": "stadium_foggy_p",
+         "map_name": "DFH Stadium (Stormy)",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 324,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:06-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:28.269524Z",
+         "uploader": {
+            "steam_id": "76561198195330811",
+            "name": "DespairCobra",
+            "profile_url": "https://steamcommunity.com/id/DespairCobra/",
+            "avatar": "https://avatars.akamai.steamstatic.com/cb50e98a911f3be3622c54ae90de7e8478072753.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.87466,
+                  "name": "M3RKK-",
+                  "id": {
+                     "platform": "epic",
+                     "id": "cf953254d6a64373a366cd71a0b81d5f"
+                  },
+                  "mvp": true,
+                  "score": 334
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.87466,
+                  "name": "arx.",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198046350719"
+                  },
+                  "score": 313
+               },
+               {
+                  "start_time": 0.27121162,
+                  "end_time": 324.87466,
+                  "name": "DespairCobra",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198195330811"
+                  },
+                  "score": 294
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.87466,
+                  "name": "Ghost",
+                  "id": {
+                     "platform": "epic",
+                     "id": "82c6a36744854cfd8195802b76a8f410"
+                  },
+                  "score": 409
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.87466,
+                  "name": "PainxThriller",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198374964039"
+                  },
+                  "score": 230
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.87466,
+                  "name": "PainxGrover",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198060858569"
+                  },
+                  "score": 182
+               }
+            ]
+         }
+      },
+      {
+         "id": "466930db-ca8b-41c9-a252-30e2843500d8",
+         "link": "https://ballchasing.com/api/replays/466930db-ca8b-41c9-a252-30e2843500d8",
+         "rocket_league_id": "514537B049C7E9A632CD9F91FDBFF5B7",
+         "replay_title": "2023-01-14.00.59 PainxGrover Private Loss",
+         "map_code": "stadium_foggy_p",
+         "map_name": "DFH Stadium (Stormy)",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 324,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:26-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:28.183146Z",
+         "uploader": {
+            "steam_id": "76561198060858569",
+            "name": "Four Leaf Grover",
+            "profile_url": "https://steamcommunity.com/id/SethHeinzman/",
+            "avatar": "https://avatars.akamai.steamstatic.com/1fea99e303d576f287f444602e9055f05a143537.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.50952,
+                  "name": "M3RKK-",
+                  "id": {
+                     "platform": "epic",
+                     "id": "cf953254d6a64373a366cd71a0b81d5f"
+                  },
+                  "mvp": true,
+                  "score": 334
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.50952,
+                  "name": "arx.",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198046350719"
+                  },
+                  "score": 313
+               },
+               {
+                  "start_time": 0.24349213,
+                  "end_time": 324.50952,
+                  "name": "DespairCobra",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198195330811"
+                  },
+                  "score": 294
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 324.50952,
+                  "name": "Ghost",
+                  "id": {
+                     "platform": "epic",
+                     "id": "82c6a36744854cfd8195802b76a8f410"
+                  },
+                  "score": 409
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.50952,
+                  "name": "PainxThriller",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198374964039"
+                  },
+                  "score": 230
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 324.50952,
+                  "name": "PainxGrover",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198060858569"
+                  },
+                  "score": 182
+               }
+            ]
+         }
+      },
+      {
+         "id": "3756b851-3e67-4683-bb71-3071aa5452cf",
+         "link": "https://ballchasing.com/api/replays/3756b851-3e67-4683-bb71-3071aa5452cf",
+         "rocket_league_id": "78472693405C610AC8F1D89B9B3AACE9",
+         "replay_title": "2023-01-13.22.59 WaZe Ranked Standard Win",
+         "map_code": "cs_p",
+         "map_name": "Champions Field",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 343,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T22:59:26-07:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:28.030143Z",
+         "min_rank": {
+            "tier": 16,
+            "division": 3,
+            "name": "Champion I Division 3",
+            "id": "champion-1"
+         },
+         "max_rank": {
+            "tier": 18,
+            "division": 1,
+            "name": "Champion III Division 1",
+            "id": "champion-3"
+         },
+         "uploader": {
+            "steam_id": "76561198072074314",
+            "name": "WaZe",
+            "profile_url": "https://steamcommunity.com/id/WaZe_One87/",
+            "avatar": "https://avatars.akamai.steamstatic.com/9e68b764fdc27ddc4cc74d5e3c4c307309953843.jpg"
+         },
+         "blue": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 343.94516,
+                  "name": "Alpha54 0",
+                  "id": {
+                     "platform": "epic",
+                     "id": "adebd19ff83c4f66ba1120d6d0660dac"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 374
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 343.94516,
+                  "name": "devscott",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198170461577"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 263
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 343.94516,
+                  "name": "Mr.Sir",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198372407796"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 3,
+                     "name": "Champion I Division 3",
+                     "id": "champion-1"
+                  },
+                  "score": 216
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 343.94516,
+                  "name": "Kai111 (Rusty)",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198119519344"
+                  },
+                  "mvp": true,
+                  "score": 432
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 343.94516,
+                  "name": "rich remY",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198211274293"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 1,
+                     "name": "Champion III Division 1",
+                     "id": "champion-3"
+                  },
+                  "score": 395
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 343.94516,
+                  "name": "WaZe",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198072074314"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 1,
+                     "name": "Champion III Division 1",
+                     "id": "champion-3"
+                  },
+                  "score": 351
+               }
+            ]
+         }
+      },
+      {
+         "id": "72aa567c-78b2-40af-91d2-67c771ce79ce",
+         "link": "https://ballchasing.com/api/replays/72aa567c-78b2-40af-91d2-67c771ce79ce",
+         "rocket_league_id": "6A1B4FA34863C70CDD51208B64B30970",
+         "replay_title": "2023-01-13.21.59 GiveMeLungCancer Ranked Doubles Win",
+         "map_code": "eurostadium_night_p",
+         "map_name": "Mannfield (Night)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 368,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:59:14-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:28.023153Z",
+         "min_rank": {
+            "tier": 16,
+            "division": 2,
+            "name": "Champion I Division 2",
+            "id": "champion-1"
+         },
+         "max_rank": {
+            "tier": 16,
+            "division": 3,
+            "name": "Champion I Division 3",
+            "id": "champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561199033885249",
+            "name": "Welcome to the Hood",
+            "profile_url": "https://steamcommunity.com/profiles/76561199033885249/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/64/644c0af35c39b4405dbc16701568aa03fa191e4f.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 368.3978,
+                  "name": "Kyro4730",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "35304258f0010900"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 2,
+                     "name": "Champion I Division 2",
+                     "id": "champion-1"
+                  },
+                  "score": 524
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 368.3978,
+                  "name": "EZ SWANDEEZY7",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "4c246df4fe010900"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 3,
+                     "name": "Champion I Division 3",
+                     "id": "champion-1"
+                  },
+                  "score": 326
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 368.3978,
+                  "name": "DiSr-_",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "DiSr-_"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 16,
+                     "division": 2,
+                     "name": "Champion I Division 2",
+                     "id": "champion-1"
+                  },
+                  "score": 542
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 368.3978,
+                  "name": "GiveMeLungCancer",
+                  "id": {
+                     "platform": "epic",
+                     "id": "daf746ee702141aa84a002c49fbaaa7b"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 3,
+                     "name": "Champion I Division 3",
+                     "id": "champion-1"
+                  },
+                  "score": 381
+               }
+            ]
+         }
+      },
+      {
+         "id": "18920122-330b-4a78-82cf-e51733cfb3a1",
+         "link": "https://ballchasing.com/api/replays/18920122-330b-4a78-82cf-e51733cfb3a1",
+         "rocket_league_id": "4867FA05450FE0663E8207BB1A9DB377",
+         "replay_title": "2023-01-14.00.59 Doria_. Tournament Win",
+         "map_code": "cs_p",
+         "map_name": "Champions Field",
+         "playlist_id": "tournament",
+         "playlist_name": "Tournament",
+         "duration": 395,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:26-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:27.880053Z",
+         "uploader": {
+            "steam_id": "76561199047768894",
+            "name": "Doria",
+            "profile_url": "https://steamcommunity.com/id/Doria_col/",
+            "avatar": "https://avatars.akamai.steamstatic.com/5f951a2056b60a22901f9a781548429144daa0f4.jpg"
+         },
+         "blue": {
+            "name": "CarcelLaPicotaFC",
+            "goals": 6,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 395.27295,
+                  "name": "GHOSTSITRASH.",
+                  "id": {
+                     "platform": "epic",
+                     "id": "196b06da612541a88d29e90ce84500da"
+                  },
+                  "mvp": true,
+                  "score": 717
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 395.27295,
+                  "name": "Doria_.",
+                  "id": {
+                     "platform": "epic",
+                     "id": "7b6014a80513491d90cbe1772852f8fe"
+                  },
+                  "score": 707
+               }
+            ]
+         },
+         "orange": {
+            "name": "pablo escobar ",
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 395.27295,
+                  "name": "AC8 ",
+                  "id": {
+                     "platform": "epic",
+                     "id": "514c201e066a4620be09f3aef26e12e6"
+                  },
+                  "score": 434
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 395.27295,
+                  "name": "KZUAL",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198881232819"
+                  },
+                  "score": 226
+               }
+            ]
+         }
+      },
+      {
+         "id": "7eac062c-1608-4f03-9ff4-d89613d472b8",
+         "link": "https://ballchasing.com/api/replays/7eac062c-1608-4f03-9ff4-d89613d472b8",
+         "rocket_league_id": "6DDAB0D44238BC0F5FB71FAACBD08D48",
+         "replay_title": "2023-01-14.00.59 Shraggaholic Casual Doubles Loss~",
+         "map_code": "eurostadium_rainy_p",
+         "map_name": "Mannfield (Stormy)",
+         "playlist_id": "unranked-doubles",
+         "playlist_name": "Unranked Doubles",
+         "duration": 277,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:25-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:27.303822Z",
+         "uploader": {
+            "steam_id": "76561198042483766",
+            "name": "tesarey",
+            "profile_url": "https://steamcommunity.com/profiles/76561198042483766/",
+            "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 277.51428,
+                  "name": "Covi",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198064680661"
+                  },
+                  "score": 573
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 277.51428,
+                  "name": "Shraggaholic",
+                  "id": {
+                     "platform": "epic",
+                     "id": "8e539df1255a4d0f808cd442288335bf"
+                  },
+                  "score": 346
+               }
+            ]
+         },
+         "orange": {
+            "goals": 5,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 277.51428,
+                  "name": "Rize_ Reaper",
+                  "id": {
+                     "platform": "epic",
+                     "id": "fd2c483e67b747679ef7107180e0b7cf"
+                  },
+                  "mvp": true,
+                  "score": 596
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 277.51428,
+                  "name": "Rize_ Reckless",
+                  "id": {
+                     "platform": "epic",
+                     "id": "107126ca2d3d444ab031462f40cbdf9b"
+                  },
+                  "score": 495
+               }
+            ]
+         }
+      },
+      {
+         "id": "30b98792-54c1-491a-8a7d-e3719b09d805",
+         "link": "https://ballchasing.com/api/replays/30b98792-54c1-491a-8a7d-e3719b09d805",
+         "rocket_league_id": "72E46A3148D12285C3221E9B6D42A3B7",
+         "replay_title": "2023-01-13.22.58 pickle it isnt Ranked Doubles Loss",
+         "map_code": "stadium_day_p",
+         "map_name": "DFH Stadium (Day)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 243,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T22:58:46-07:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:26.303385Z",
+         "min_rank": {
+            "tier": 15,
+            "division": 2,
+            "name": "Diamond III Division 2",
+            "id": "diamond-3"
+         },
+         "max_rank": {
+            "tier": 16,
+            "division": 1,
+            "name": "Champion I Division 1",
+            "id": "champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561198046577418",
+            "name": "Yamiap",
+            "profile_url": "https://steamcommunity.com/id/Yamiap/",
+            "avatar": "https://avatars.akamai.steamstatic.com/ce48a8cd591333cf5f9a01d7f93c8a95bcb1fa5d.jpg"
+         },
+         "blue": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 243.2554,
+                  "name": "pickle it isnt",
+                  "id": {
+                     "platform": "epic",
+                     "id": "c75bb9658c834da69c403c1785abd1b5"
+                  },
+                  "rank": {
+                     "tier": 15,
+                     "division": 3,
+                     "name": "Diamond III Division 3",
+                     "id": "diamond-3"
+                  },
+                  "score": 376
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 243.2554,
+                  "name": "pickle it is",
+                  "id": {
+                     "platform": "epic",
+                     "id": "abcdfa4422fe4151800cd05041e72440"
+                  },
+                  "score": 283
+               }
+            ]
+         },
+         "orange": {
+            "goals": 5,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 243.2554,
+                  "name": "Stunk.",
+                  "id": {
+                     "platform": "epic",
+                     "id": "bcb2823127ac400484cd52a74606931d"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 16,
+                     "division": 1,
+                     "name": "Champion I Division 1",
+                     "id": "champion-1"
+                  },
+                  "score": 693
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 243.2554,
+                  "name": "takenurdabs",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "6185ad5df4010900"
+                  },
+                  "rank": {
+                     "tier": 15,
+                     "division": 2,
+                     "name": "Diamond III Division 2",
+                     "id": "diamond-3"
+                  },
+                  "score": 498
+               }
+            ]
+         }
+      },
+      {
+         "id": "f3909471-d882-4744-bdb7-d2a4578ae63f",
+         "link": "https://ballchasing.com/api/replays/f3909471-d882-4744-bdb7-d2a4578ae63f",
+         "rocket_league_id": "819CC7FD4589670266CFBB87CA498132",
+         "replay_title": "2023-01-13.21.59 Feelx Ranked Doubles Win",
+         "map_code": "street_p",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 361,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:59:21-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:24.271677Z",
+         "min_rank": {
+            "tier": 19,
+            "division": 4,
+            "name": "Grand Champion I Division 4",
+            "id": "grand-champion-1"
+         },
+         "max_rank": {
+            "tier": 19,
+            "division": 4,
+            "name": "Grand Champion I Division 4",
+            "id": "grand-champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561198991088047",
+            "name": "FeeL",
+            "profile_url": "https://steamcommunity.com/profiles/76561198991088047/",
+            "avatar": "https://avatars.akamai.steamstatic.com/2c8f1d23337ab1cba80b08fb8998a3295744c3f1.jpg"
+         },
+         "blue": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 361.08505,
+                  "name": "vSearchv",
+                  "id": {
+                     "platform": "epic",
+                     "id": "67f1868b7149469f98b6d6cd3ac1c70e"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 19,
+                     "division": 4,
+                     "name": "Grand Champion I Division 4",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 623
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 361.08505,
+                  "name": "Feelx",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198991088047"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 4,
+                     "name": "Grand Champion I Division 4",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 561
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 361.08505,
+                  "name": "kehr_",
+                  "id": {
+                     "platform": "epic",
+                     "id": "b7bb852c1818475b847564b8bd643424"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 4,
+                     "name": "Grand Champion I Division 4",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 462
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 361.08505,
+                  "name": "BoIto_",
+                  "id": {
+                     "platform": "epic",
+                     "id": "b47650c3de624a6abd6102ae54ac2998"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 4,
+                     "name": "Grand Champion I Division 4",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 320
+               }
+            ]
+         }
+      },
+      {
+         "id": "fbf57fe4-a426-4d4e-b263-e6d2f29a9e54",
+         "link": "https://ballchasing.com/api/replays/fbf57fe4-a426-4d4e-b263-e6d2f29a9e54",
+         "rocket_league_id": "39B34BB44E9B4CF30C18DBAB67B5B43C",
+         "replay_title": "2023-01-14.00.59 A Lamp Casual Doubles Loss",
+         "map_code": "chn_stadium_p",
+         "map_name": "Forbidden Temple",
+         "playlist_id": "unranked-doubles",
+         "playlist_name": "Unranked Doubles",
+         "duration": 355,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:23-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:23.597886Z",
+         "uploader": {
+            "steam_id": "76561198049015403",
+            "name": "A Lamp",
+            "profile_url": "https://steamcommunity.com/id/LampIsaLamp/",
+            "avatar": "https://avatars.akamai.steamstatic.com/3a0261d7495b7c5528b8f79af606ecb0a464f695.jpg"
+         },
+         "blue": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 355.40314,
+                  "name": "FIyGodZero",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "FIyGodZero"
+                  },
+                  "mvp": true,
+                  "score": 775
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 355.40314,
+                  "name": "xxGxBxx",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "8024c8b2f1010900"
+                  },
+                  "score": 416
+               }
+            ]
+         },
+         "orange": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 355.40314,
+                  "name": "A Lamp",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198049015403"
+                  },
+                  "score": 342
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 355.40314,
+                  "name": "Galaxyyyyyy",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "4565fe0700000900"
+                  },
+                  "score": 334
+               }
+            ]
+         }
+      },
+      {
+         "id": "a9002dcf-fb96-458b-975b-621fc8c9b8b1",
+         "link": "https://ballchasing.com/api/replays/a9002dcf-fb96-458b-975b-621fc8c9b8b1",
+         "rocket_league_id": "B6C547FA43010A2904FD5EA19EF2FABC",
+         "replay_title": "2023-01-14.01.59 TheMainBoss69  Win",
+         "map_code": "utopiastadium_dusk_p",
+         "map_name": "Utopia Coliseum (Dusk)",
+         "duration": 342,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T01:59:16-04:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:21.628299Z",
+         "uploader": {
+            "steam_id": "76561198196794475",
+            "name": "RiddleMasterx3",
+            "profile_url": "https://steamcommunity.com/profiles/76561198196794475/",
+            "avatar": "https://avatars.akamai.steamstatic.com/a381e6c1c347c28204f14e9369e537ba2b8fe2c9.jpg"
+         },
+         "blue": {
+            "name": "MERXXXTENTACION",
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 342.33603,
+                  "name": "Valtonic",
+                  "id": {
+                     "platform": "epic",
+                     "id": "91ee2f650ee4452b8313b0f854d2c239"
+                  },
+                  "score": 402
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 342.33603,
+                  "name": "Alcatov",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Alcatov"
+                  },
+                  "score": 285
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 342.33603,
+                  "name": "Comarii",
+                  "id": {
+                     "platform": "epic",
+                     "id": "6f884c98873e4394a8bef213464a4bf9"
+                  },
+                  "score": 124
+               }
+            ]
+         },
+         "orange": {
+            "name": "Bankai",
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 342.33603,
+                  "name": "TheMainBoss69",
+                  "id": {
+                     "platform": "epic",
+                     "id": "cfab7a619c2e4f24b8344fe95f7b64ee"
+                  },
+                  "mvp": true,
+                  "score": 606
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 342.33603,
+                  "name": "EDGExAqua",
+                  "id": {
+                     "platform": "epic",
+                     "id": "1cad538abc784f348837452002a94fdf"
+                  },
+                  "score": 300
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 342.33603,
+                  "name": "EDGExViper",
+                  "id": {
+                     "platform": "epic",
+                     "id": "96f31a6351de4c018213eb3634eef472"
+                  },
+                  "score": 191
+               }
+            ]
+         }
+      },
+      {
+         "id": "e1e03a86-2b28-4236-bf88-53819a2ec7a6",
+         "link": "https://ballchasing.com/api/replays/e1e03a86-2b28-4236-bf88-53819a2ec7a6",
+         "rocket_league_id": "34DFA41A41FA8CD851A64688A279B907",
+         "replay_title": "2023-01-13.23.59 Yuquita. Ranked Standard Loss",
+         "map_code": "stadium_foggy_p",
+         "map_name": "DFH Stadium (Stormy)",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 351,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:14-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:18.336179Z",
+         "min_rank": {
+            "tier": 15,
+            "division": 1,
+            "name": "Diamond III Division 1",
+            "id": "diamond-3"
+         },
+         "max_rank": {
+            "tier": 16,
+            "division": 1,
+            "name": "Champion I Division 1",
+            "id": "champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561199403715620",
+            "name": "Gabo",
+            "profile_url": "https://steamcommunity.com/profiles/76561199403715620/",
+            "avatar": "https://avatars.akamai.steamstatic.com/93e8338337347413ff96dd54a45fef720b19716d.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 351.73813,
+                  "name": "sebas23700",
+                  "id": {
+                     "platform": "epic",
+                     "id": "8380b567bb744ed8bc7500cf95e39ced"
+                  },
+                  "score": 493
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 351.73813,
+                  "name": "xGhostFxce",
+                  "id": {
+                     "platform": "epic",
+                     "id": "77bbfa173f1f467183cffc7b6a446749"
+                  },
+                  "score": 328
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 351.73813,
+                  "name": "Yuquita.",
+                  "id": {
+                     "platform": "epic",
+                     "id": "c9b112a864404d42a13be7dc01772580"
+                  },
+                  "score": 172
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 351.73813,
+                  "name": "Mew",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198027579659"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 16,
+                     "division": 1,
+                     "name": "Champion I Division 1",
+                     "id": "champion-1"
+                  },
+                  "score": 456
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 351.73813,
+                  "name": "Jackolas",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198255741721"
+                  },
+                  "rank": {
+                     "tier": 15,
+                     "division": 2,
+                     "name": "Diamond III Division 2",
+                     "id": "diamond-3"
+                  },
+                  "score": 286
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 351.73813,
+                  "name": "l2abbit",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561197968243346"
+                  },
+                  "rank": {
+                     "tier": 15,
+                     "division": 1,
+                     "name": "Diamond III Division 1",
+                     "id": "diamond-3"
+                  },
+                  "score": 128
+               }
+            ]
+         }
+      },
+      {
+         "id": "9b9d9a7f-7c13-4af7-b8ab-64ec04a581d9",
+         "link": "https://ballchasing.com/api/replays/9b9d9a7f-7c13-4af7-b8ab-64ec04a581d9",
+         "rocket_league_id": "43AD47FE40257E3FE5A22987F547A828",
+         "replay_title": "2023-01-13.23.59 laf Private Loss",
+         "map_code": "chn_stadium_day_p",
+         "map_name": "Forbidden Temple (Day)",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 344,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:16-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:18.25893Z",
+         "uploader": {
+            "steam_id": "76561198339973135",
+            "name": "lafextraordinary",
+            "profile_url": "https://steamcommunity.com/id/LafreniereR10/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6a/6ab09a452b28d4f19c994366acf2075f6cd00906.jpg"
+         },
+         "blue": {
+            "name": "TEAM 1",
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 344.72882,
+                  "name": "laf",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198339973135"
+                  },
+                  "score": 502
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 344.72882,
+                  "name": "Texas.",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198055818872"
+                  },
+                  "score": 347
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 344.72882,
+                  "name": "QuietIsDark",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "QuietIsDark"
+                  },
+                  "score": 249
+               }
+            ]
+         },
+         "orange": {
+            "name": "TEAM 2",
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 344.72882,
+                  "name": "EliteShadowWolf1",
+                  "id": {
+                     "platform": "epic",
+                     "id": "362c2fb5219a49efaedf84f3cc4a40f2"
+                  },
+                  "mvp": true,
+                  "score": 382
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 344.72882,
+                  "name": "Scrub",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198396265892"
+                  },
+                  "score": 333
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 344.72882,
+                  "name": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561197996779408"
+                  },
+                  "score": 254
+               }
+            ]
+         }
+      },
+      {
+         "id": "daa1c9ec-5e7e-4d40-a728-944c61ba45d2",
+         "link": "https://ballchasing.com/api/replays/daa1c9ec-5e7e-4d40-a728-944c61ba45d2",
+         "rocket_league_id": "D70A31984E7289DE9F01569CDD4DE6FC",
+         "replay_title": "2023-01-13.22.59 Ronin Ranked Doubles Win",
+         "map_code": "chn_stadium_day_p",
+         "map_name": "Forbidden Temple (Day)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 391,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T22:59:17-07:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:18.099203Z",
+         "min_rank": {
+            "tier": 16,
+            "division": 1,
+            "name": "Champion I Division 1",
+            "id": "champion-1"
+         },
+         "max_rank": {
+            "tier": 16,
+            "division": 3,
+            "name": "Champion I Division 3",
+            "id": "champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561197960405979",
+            "name": "Ronin",
+            "profile_url": "https://steamcommunity.com/id/RoninAvaconda/",
+            "avatar": "https://avatars.akamai.steamstatic.com/b34e9cdad312a1798b8d40b1271b2c3f58395882.jpg"
+         },
+         "blue": {
+            "goals": 6,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 391.98993,
+                  "name": "nutzsquirl",
+                  "id": {
+                     "platform": "epic",
+                     "id": "d22b40dd518e42d98ac8e4d014ab583e"
+                  },
+                  "mvp": true,
+                  "score": 797
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 391.98993,
+                  "name": "Ronin",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561197960405979"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 1,
+                     "name": "Champion I Division 1",
+                     "id": "champion-1"
+                  },
+                  "score": 366
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 391.98993,
+                  "name": "Knottywink",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Knottywink"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 2,
+                     "name": "Champion I Division 2",
+                     "id": "champion-1"
+                  },
+                  "score": 593
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 391.98993,
+                  "name": "FoolishDuk",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "3b02be0d00000900"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 3,
+                     "name": "Champion I Division 3",
+                     "id": "champion-1"
+                  },
+                  "score": 563
+               }
+            ]
+         }
+      },
+      {
+         "id": "4d25782a-8197-4c39-9ec4-a5eddb906f4f",
+         "link": "https://ballchasing.com/api/replays/4d25782a-8197-4c39-9ec4-a5eddb906f4f",
+         "rocket_league_id": "B8A6724D476520061C360C9D9F8BDB20",
+         "replay_title": "2023-01-14.00.59 Nano Ranked Standard Loss",
+         "map_code": "chn_stadium_day_p",
+         "map_name": "Forbidden Temple (Day)",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 397,
+         "overtime": true,
+         "overtime_seconds": 46,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:18-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:15.929041Z",
+         "min_rank": {
+            "tier": 19,
+            "division": 3,
+            "name": "Grand Champion I Division 3",
+            "id": "grand-champion-1"
+         },
+         "max_rank": {
+            "tier": 20,
+            "division": 1,
+            "name": "Grand Champion II Division 1",
+            "id": "grand-champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561198318372506",
+            "name": "Nano",
+            "profile_url": "https://steamcommunity.com/profiles/76561198318372506/",
+            "avatar": "https://avatars.akamai.steamstatic.com/ca32e7461a0a1c256ad5eea09972cb5ed79a5edf.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 397.15,
+                  "name": "Nano",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198318372506"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 4,
+                     "name": "Grand Champion I Division 4",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 518
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 397.15,
+                  "name": "Quacked",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198119583277"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 1,
+                     "name": "Grand Champion II Division 1",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 426
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 397.15,
+                  "name": "KMA1NES",
+                  "id": {
+                     "platform": "epic",
+                     "id": "0d4ad4ffe35442b1ab41df11d859a11c"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 4,
+                     "name": "Grand Champion I Division 4",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 238
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 397.15,
+                  "name": "Rev",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199087513686"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 19,
+                     "division": 3,
+                     "name": "Grand Champion I Division 3",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 642
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 397.15,
+                  "name": "Triplestix",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198216465777"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 1,
+                     "name": "Grand Champion II Division 1",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 284
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 397.15,
+                  "name": "Kaspeh",
+                  "id": {
+                     "platform": "epic",
+                     "id": "feae3b4f40944104ac44a1278d269286"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 1,
+                     "name": "Grand Champion II Division 1",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 283
+               }
+            ]
+         }
+      },
+      {
+         "id": "f9361960-8fe6-46f4-81a9-406235d5d630",
+         "link": "https://ballchasing.com/api/replays/f9361960-8fe6-46f4-81a9-406235d5d630",
+         "rocket_league_id": "300E39E4465675BD518B1CAE27958EAD",
+         "replay_title": "2023-01-14.14.59 imo-ninjin Ranked Rumble Win",
+         "map_code": "cs_p",
+         "map_name": "Champions Field",
+         "playlist_id": "ranked-rumble",
+         "playlist_name": "Ranked Rumble",
+         "duration": 222,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T14:59:12+09:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:14.847941Z",
+         "min_rank": {
+            "tier": 17,
+            "division": 2,
+            "name": "Champion II Division 2",
+            "id": "champion-2"
+         },
+         "max_rank": {
+            "tier": 17,
+            "division": 3,
+            "name": "Champion II Division 3",
+            "id": "champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561199134792305",
+            "name": "imo-ninjin",
+            "profile_url": "https://steamcommunity.com/profiles/76561199134792305/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f.jpg"
+         },
+         "blue": {
+            "goals": 5,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 222.43134,
+                  "name": "patarow",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198384915738"
+                  },
+                  "mvp": true,
+                  "score": 493
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 222.43134,
+                  "name": "imo-ninjin",
+                  "id": {
+                     "platform": "epic",
+                     "id": "db29092e107d42b59a0ac1c42980f7e6"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 370
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 222.43134,
+                  "name": "Azusa2go",
+                  "id": {
+                     "platform": "epic",
+                     "id": "1c14b3af28fe4139810e04f957ee6799"
+                  },
+                  "score": 74
+               }
+            ]
+         },
+         "orange": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 222.43134,
+                  "name": "Fuzzy Sack",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "587a430100000900"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 178
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 222.43134,
+                  "name": "bornsinner_rwb",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "bornsinner_rwb"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 3,
+                     "name": "Champion II Division 3",
+                     "id": "champion-2"
+                  },
+                  "score": 130
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 222.43134,
+                  "name": "Dy11matic",
+                  "id": {
+                     "platform": "epic",
+                     "id": "18699c45d20148619a1e38c80f3ce071"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 54
+               }
+            ]
+         }
+      },
+      {
+         "id": "9beeac3c-872b-412b-b5da-78fd2ad2dd69",
+         "link": "https://ballchasing.com/api/replays/9beeac3c-872b-412b-b5da-78fd2ad2dd69",
+         "rocket_league_id": "923372A0478A57F6B7C87D841929F35D",
+         "replay_title": "2023-01-13.23.59 Jmac Casual Standard Loss",
+         "map_code": "eurostadium_rainy_p",
+         "map_name": "Mannfield (Stormy)",
+         "playlist_id": "unranked-standard",
+         "playlist_name": "Unranked Standard",
+         "duration": 96,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:08-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:14.294746Z",
+         "uploader": {
+            "steam_id": "76561198349670116",
+            "name": "Jmacxnz",
+            "profile_url": "https://steamcommunity.com/profiles/76561198349670116/",
+            "avatar": "https://avatars.akamai.steamstatic.com/32260b90a0476f379f56045474312301ff7bd89c.jpg"
+         },
+         "blue": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 96.92306,
+                  "name": "Xclyba",
+                  "id": {
+                     "platform": "epic",
+                     "id": "f69d1baf62da4e34a5b90dcf7670a448"
+                  },
+                  "score": 109
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 96.92306,
+                  "name": "Dodo9797",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "970f680800000900"
+                  },
+                  "score": 70
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 96.92306,
+                  "name": "Tio Leo9370",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "6fbf79daf7010900"
+                  },
+                  "score": 66
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 96.92306,
+                  "name": "Jmac",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198349670116"
+                  },
+                  "score": 129
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 70.92105,
+                  "name": "DB3rt11",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "413e565bf5010900"
+                  },
+                  "score": 90
+               },
+               {
+                  "start_time": 75.327225,
+                  "end_time": 96.92306,
+                  "name": "SwervinBenz",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "SwervinBenz"
+                  },
+                  "score": 24
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 65.01894,
+                  "name": "Cyan. 0 on YT",
+                  "id": {
+                     "platform": "epic",
+                     "id": "ccb52257bb10412a9fa611a88dd04842"
+                  },
+                  "score": 22
+               },
+               {
+                  "start_time": 66.03723,
+                  "end_time": 96.92306,
+                  "name": "Wolfman",
+                  "id": {},
+                  "score": 6
+               },
+               {
+                  "start_time": 60.09506,
+                  "end_time": 80.278206,
+                  "name": "Armstrong",
+                  "id": {},
+                  "score": 0
+               }
+            ]
+         }
+      },
+      {
+         "id": "e25dc66c-5ca9-45dd-854c-6ef3f10f43e9",
+         "link": "https://ballchasing.com/api/replays/e25dc66c-5ca9-45dd-854c-6ef3f10f43e9",
+         "rocket_league_id": "9FEC78B84C8B2B38ABF0E893DF4DE3F8",
+         "replay_title": "2023-01-13.23.59 Chop Ranked Doubles Loss",
+         "map_code": "beach_night_p",
+         "map_name": "Salty Shores (Night)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 451,
+         "overtime": true,
+         "overtime_seconds": 98,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:14-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:13.987546Z",
+         "min_rank": {
+            "tier": 14,
+            "division": 2,
+            "name": "Diamond II Division 2",
+            "id": "diamond-2"
+         },
+         "max_rank": {
+            "tier": 17,
+            "division": 2,
+            "name": "Champion II Division 2",
+            "id": "champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561199076413751",
+            "name": "Chop",
+            "profile_url": "https://steamcommunity.com/profiles/76561199076413751/",
+            "avatar": "https://avatars.akamai.steamstatic.com/7bbb5872718bc9bfc265c5052c84bc1c50c08fde.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 451.30655,
+                  "name": "Chop",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199076413751"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 512
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 451.30655,
+                  "name": "MSx Marauder",
+                  "id": {
+                     "platform": "epic",
+                     "id": "02e9d48b61da40b4b9d02acec3741f0e"
+                  },
+                  "score": 447
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 451.30655,
+                  "name": "PraizeSweaty445",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "0791709bf6010900"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 14,
+                     "division": 2,
+                     "name": "Diamond II Division 2",
+                     "id": "diamond-2"
+                  },
+                  "score": 678
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 451.30655,
+                  "name": "Xyoniic",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Xyoniic"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 1,
+                     "name": "Champion II Division 1",
+                     "id": "champion-2"
+                  },
+                  "score": 566
+               }
+            ]
+         }
+      },
+      {
+         "id": "c18ec608-5d08-4a4f-88ee-74cc554ff7d9",
+         "link": "https://ballchasing.com/api/replays/c18ec608-5d08-4a4f-88ee-74cc554ff7d9",
+         "rocket_league_id": "6F93DB51477831DB2604C2A167DC301C",
+         "replay_title": "2023-01-13.23.59 dwumking uwu Ranked Doubles Loss",
+         "map_code": "farm_p",
+         "map_name": "Farmstead",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 482,
+         "overtime": true,
+         "overtime_seconds": 112,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:10-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:13.672407Z",
+         "min_rank": {
+            "tier": 11,
+            "division": 3,
+            "name": "Platinum II Division 3",
+            "id": "platinum-2"
+         },
+         "max_rank": {
+            "tier": 17,
+            "division": 2,
+            "name": "Champion II Division 2",
+            "id": "champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561198980804825",
+            "name": "BenFV",
+            "profile_url": "https://steamcommunity.com/profiles/76561198980804825/",
+            "avatar": "https://avatars.akamai.steamstatic.com/13fc1fdf613123945d6d0ab324d43103f85e948d.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 482.65253,
+                  "name": "dwumking uwu",
+                  "id": {
+                     "platform": "epic",
+                     "id": "8191028b91db42a0aee98d7a12b6e1b7"
+                  },
+                  "rank": {
+                     "tier": 11,
+                     "division": 3,
+                     "name": "Platinum II Division 3",
+                     "id": "platinum-2"
+                  },
+                  "score": 934
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 482.65253,
+                  "name": "DrumKing.",
+                  "id": {
+                     "platform": "epic",
+                     "id": "f8f09933cac2465d8190ae7b89d955b3"
+                  },
+                  "score": 258
+               }
+            ]
+         },
+         "orange": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 482.65253,
+                  "name": "NM Skies3806",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "efc99da6ff010900"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 784
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 482.65253,
+                  "name": "GrantPlaying",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "18deda54ff010900"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 2,
+                     "name": "Champion II Division 2",
+                     "id": "champion-2"
+                  },
+                  "score": 574
+               }
+            ]
+         }
+      },
+      {
+         "id": "76f90914-669a-46df-85e3-bcaf8a2cb565",
+         "link": "https://ballchasing.com/api/replays/76f90914-669a-46df-85e3-bcaf8a2cb565",
+         "rocket_league_id": "994FEC1147335D9CC48E34AA887710D1",
+         "replay_title": "2023-01-13.21.59 KreepZ Tournament Win",
+         "map_code": "stadium_p",
+         "map_name": "DFH Stadium",
+         "playlist_id": "tournament",
+         "playlist_name": "Tournament",
+         "duration": 200,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:59:11-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:12.693801Z",
+         "uploader": {
+            "steam_id": "76561198118330600",
+            "name": "KreepZ",
+            "profile_url": "https://steamcommunity.com/id/KreepZ37/",
+            "avatar": "https://avatars.akamai.steamstatic.com/e7c4988248a73053808a335897661bef66d59914.jpg"
+         },
+         "blue": {
+            "name": "ACodeNameDuchess",
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 200.43639,
+                  "name": "ACodeNameDuchess",
+                  "id": {
+                     "platform": "epic",
+                     "id": "646ae581cbad43fcb463704a1d41ae8e"
+                  },
+                  "score": 522
+               }
+            ]
+         },
+         "orange": {
+            "name": "KreepZ",
+            "goals": 5,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 200.43639,
+                  "name": "KreepZ",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198118330600"
+                  },
+                  "mvp": true,
+                  "score": 773
+               }
+            ]
+         }
+      },
+      {
+         "id": "6a86be85-b274-4051-ad75-96eb4d5aea12",
+         "link": "https://ballchasing.com/api/replays/6a86be85-b274-4051-ad75-96eb4d5aea12",
+         "rocket_league_id": "08040262499C4A88D8CE13BCF2B2850D",
+         "replay_title": "2023-01-13.21.59 IEATSODA Ranked Doubles Win",
+         "map_code": "trainstation_dawn_p",
+         "map_name": "Urban Central (Dawn)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 346,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:59:10-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:12.505016Z",
+         "min_rank": {
+            "tier": 17,
+            "division": 3,
+            "name": "Champion II Division 3",
+            "id": "champion-2"
+         },
+         "max_rank": {
+            "tier": 17,
+            "division": 4,
+            "name": "Champion II Division 4",
+            "id": "champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561199218594859",
+            "name": "IEATSODA",
+            "profile_url": "https://steamcommunity.com/profiles/76561199218594859/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+         },
+         "blue": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 346.90488,
+                  "name": "Emynoel40",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Emynoel40"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 537
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 346.90488,
+                  "name": "IEATSODA",
+                  "id": {
+                     "platform": "epic",
+                     "id": "757447722af94c959a765ab5144fefe9"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 454
+               }
+            ]
+         },
+         "orange": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 346.90488,
+                  "name": "CookieMoneyyyy",
+                  "id": {
+                     "platform": "epic",
+                     "id": "2839ed6d65d84497af7bd71efb28cc19"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 361
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 346.90488,
+                  "name": "Jeb5002",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Jeb5002"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 3,
+                     "name": "Champion II Division 3",
+                     "id": "champion-2"
+                  },
+                  "score": 350
+               }
+            ]
+         }
+      },
+      {
+         "id": "fbb4a375-0658-4ab1-a47d-9e0c23b4b83d",
+         "link": "https://ballchasing.com/api/replays/fbb4a375-0658-4ab1-a47d-9e0c23b4b83d",
+         "rocket_league_id": "7E3778ED45A09866196A99AFBE7D2C06",
+         "replay_title": "2023-01-13.23.59 TyB0h Ranked Standard Loss",
+         "map_code": "street_p",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 321,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:59:06-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:10.520857Z",
+         "min_rank": {
+            "tier": 18,
+            "division": 3,
+            "name": "Champion III Division 3",
+            "id": "champion-3"
+         },
+         "max_rank": {
+            "tier": 18,
+            "division": 4,
+            "name": "Champion III Division 4",
+            "id": "champion-3"
+         },
+         "uploader": {
+            "steam_id": "76561198140057828",
+            "name": "TyB0h",
+            "profile_url": "https://steamcommunity.com/id/TyB0h/",
+            "avatar": "https://avatars.akamai.steamstatic.com/0536b786eb9c5d11763e537dd9b8dcda6c5a776e.jpg"
+         },
+         "blue": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 321.0528,
+                  "name": "Aero",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199007165178"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 18,
+                     "division": 3,
+                     "name": "Champion III Division 3",
+                     "id": "champion-3"
+                  },
+                  "score": 290
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 321.0528,
+                  "name": "fartsandal9926134",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198305211896"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 3,
+                     "name": "Champion III Division 3",
+                     "id": "champion-3"
+                  },
+                  "score": 146
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 321.0528,
+                  "name": "Daylon",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198237849978"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 4,
+                     "name": "Champion III Division 4",
+                     "id": "champion-3"
+                  },
+                  "score": 110
+               }
+            ]
+         },
+         "orange": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 321.0528,
+                  "name": "SiiiSC0",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "5a14e815f5010900"
+                  },
+                  "score": 257
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 321.0528,
+                  "name": "DoctorJeffery",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198201681151"
+                  },
+                  "score": 255
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 321.0528,
+                  "name": "TyB0h",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198140057828"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 3,
+                     "name": "Champion III Division 3",
+                     "id": "champion-3"
+                  },
+                  "score": 232
+               }
+            ]
+         }
+      },
+      {
+         "id": "8dc0fc99-41e1-46f2-b92b-f7664ed35eca",
+         "link": "https://ballchasing.com/api/replays/8dc0fc99-41e1-46f2-b92b-f7664ed35eca",
+         "rocket_league_id": "2061134D4459EE6F40F24297F1E1408C",
+         "replay_title": "2023-01-14.06.59 Ginus122 Ranked Duel Win",
+         "map_code": "street_p",
+         "playlist_id": "ranked-duels",
+         "playlist_name": "Ranked Duels",
+         "duration": 371,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T06:59:06+01:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:09.637118Z",
+         "min_rank": {
+            "tier": 11,
+            "division": 3,
+            "name": "Platinum II Division 3",
+            "id": "platinum-2"
+         },
+         "max_rank": {
+            "tier": 12,
+            "division": 1,
+            "name": "Platinum III Division 1",
+            "id": "platinum-3"
+         },
+         "uploader": {
+            "steam_id": "76561198054466389",
+            "name": "Andonio99",
+            "profile_url": "https://steamcommunity.com/profiles/76561198054466389/",
+            "avatar": "https://avatars.akamai.steamstatic.com/e5a45b2055c73c68f5d064babd510683b5878431.jpg"
+         },
+         "blue": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 371.2488,
+                  "name": "Ginus122",
+                  "id": {
+                     "platform": "epic",
+                     "id": "1896b2259ee943649fb50ae72c142287"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 12,
+                     "division": 1,
+                     "name": "Platinum III Division 1",
+                     "id": "platinum-3"
+                  },
+                  "score": 757
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 371.2488,
+                  "name": "Teamblood6261",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "a5f4cfb1f5010900"
+                  },
+                  "rank": {
+                     "tier": 11,
+                     "division": 3,
+                     "name": "Platinum II Division 3",
+                     "id": "platinum-2"
+                  },
+                  "score": 745
+               }
+            ]
+         }
+      },
+      {
+         "id": "27439ef4-2f73-48c3-a9db-f008fa59f927",
+         "link": "https://ballchasing.com/api/replays/27439ef4-2f73-48c3-a9db-f008fa59f927",
+         "rocket_league_id": "AEA83DA4410FC84274CE26A6DCEBFEDE",
+         "replay_title": "2023-01-14.00.57 guiskirito Ranked Doubles Win",
+         "map_code": "utopiastadium_p",
+         "map_name": "Utopia Coliseum",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 389,
+         "overtime": true,
+         "overtime_seconds": 13,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:57:44-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:08.988204Z",
+         "min_rank": {
+            "tier": 20,
+            "division": 2,
+            "name": "Grand Champion II Division 2",
+            "id": "grand-champion-2"
+         },
+         "max_rank": {
+            "tier": 20,
+            "division": 3,
+            "name": "Grand Champion II Division 3",
+            "id": "grand-champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561199122785555",
+            "name": "kirito",
+            "profile_url": "https://steamcommunity.com/profiles/76561199122785555/",
+            "avatar": "https://avatars.akamai.steamstatic.com/2284e66750368892e79138581746b7ba64c94eb0.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 389.71957,
+                  "name": "Flamadiddl3",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198807828796"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 2,
+                     "name": "Grand Champion II Division 2",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 632
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 389.71957,
+                  "name": "Andrizzle_19",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "Andrizzle_19"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 3,
+                     "name": "Grand Champion II Division 3",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 481
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 389.71957,
+                  "name": "guiskirito",
+                  "id": {
+                     "platform": "epic",
+                     "id": "e37ad2337af54381a54ad7d05c794ecb"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 20,
+                     "division": 3,
+                     "name": "Grand Champion II Division 3",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 666
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 389.71957,
+                  "name": "Danielito",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198352246267"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 3,
+                     "name": "Grand Champion II Division 3",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 643
+               }
+            ]
+         }
+      },
+      {
+         "id": "b43607b5-dddc-4c62-92bd-31d1059ead0f",
+         "link": "https://ballchasing.com/api/replays/b43607b5-dddc-4c62-92bd-31d1059ead0f",
+         "rocket_league_id": "9F0808DE44C2C41092E69DA1DA71F8C5",
+         "replay_title": "2023-01-13.21.58 ironpenguV0.5 Ranked Standard Win",
+         "map_code": "park_p",
+         "map_name": "Beckwith Park",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 369,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:58:51-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:08.522001Z",
+         "min_rank": {
+            "tier": 11,
+            "division": 2,
+            "name": "Platinum II Division 2",
+            "id": "platinum-2"
+         },
+         "max_rank": {
+            "tier": 14,
+            "division": 2,
+            "name": "Diamond II Division 2",
+            "id": "diamond-2"
+         },
+         "uploader": {
+            "steam_id": "76561198074127294",
+            "name": "ironpengu",
+            "profile_url": "https://steamcommunity.com/profiles/76561198074127294/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b0/b07382478bb38541c34c034e728d431f3bd6c67b.jpg"
+         },
+         "blue": {
+            "goals": 5,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 369.95728,
+                  "name": "ironpenguV0.5",
+                  "id": {
+                     "platform": "epic",
+                     "id": "ece09fb9adfb4a91915a77b2a3960d5f"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 14,
+                     "division": 1,
+                     "name": "Diamond II Division 1",
+                     "id": "diamond-2"
+                  },
+                  "score": 799
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 369.95728,
+                  "name": "MofakinKeen",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "MofakinKeen"
+                  },
+                  "score": 304
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 369.95728,
+                  "name": "dorkwoodgames",
+                  "id": {
+                     "platform": "epic",
+                     "id": "ffab7d2acdf84cdbb94aeb887f2ad87e"
+                  },
+                  "score": 159
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 369.95728,
+                  "name": "Enr4gedMexic4n",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "96d46be0f3010900"
+                  },
+                  "rank": {
+                     "tier": 11,
+                     "division": 4,
+                     "name": "Platinum II Division 4",
+                     "id": "platinum-2"
+                  },
+                  "score": 435
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 369.95728,
+                  "name": "Tbh_idk.13",
+                  "id": {
+                     "platform": "epic",
+                     "id": "04629f0e484c41dabcc2306933326766"
+                  },
+                  "rank": {
+                     "tier": 14,
+                     "division": 2,
+                     "name": "Diamond II Division 2",
+                     "id": "diamond-2"
+                  },
+                  "score": 426
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 369.95728,
+                  "name": "TheLordCactus",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "3467b9f2fc010900"
+                  },
+                  "rank": {
+                     "tier": 11,
+                     "division": 2,
+                     "name": "Platinum II Division 2",
+                     "id": "platinum-2"
+                  },
+                  "score": 237
+               }
+            ]
+         }
+      },
+      {
+         "id": "1665b01d-c173-4f87-9fec-ff727b0b85d3",
+         "link": "https://ballchasing.com/api/replays/1665b01d-c173-4f87-9fec-ff727b0b85d3",
+         "rocket_league_id": "30D86B5149B6488C2F6AB5B735EE58DD",
+         "replay_title": "2023-01-13.21.59 CloutCaptain Ranked Doubles Win",
+         "map_code": "eurostadium_rainy_p",
+         "map_name": "Mannfield (Stormy)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 372,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:59:06-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:08.328428Z",
+         "min_rank": {
+            "tier": 17,
+            "division": 3,
+            "name": "Champion II Division 3",
+            "id": "champion-2"
+         },
+         "max_rank": {
+            "tier": 18,
+            "division": 1,
+            "name": "Champion III Division 1",
+            "id": "champion-3"
+         },
+         "uploader": {
+            "steam_id": "76561198894127578",
+            "name": "PenaKillin",
+            "profile_url": "https://steamcommunity.com/id/Cloutcaptian/",
+            "avatar": "https://avatars.akamai.steamstatic.com/217c6a685f80e027956fb5c5a5313922e320bc0b.jpg"
+         },
+         "blue": {
+            "goals": 5,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 372.8299,
+                  "name": "Onyxtrooper",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198317420266"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 659
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 372.8299,
+                  "name": "CloutCaptain",
+                  "id": {
+                     "platform": "epic",
+                     "id": "b3a5e745df8443a7a00401b85e28f841"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 4,
+                     "name": "Champion II Division 4",
+                     "id": "champion-2"
+                  },
+                  "score": 548
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 372.8299,
+                  "name": "nj0utlaw",
+                  "id": {
+                     "platform": "epic",
+                     "id": "03388bcb0d0c43b4a8cdbb1b0cbdff14"
+                  },
+                  "rank": {
+                     "tier": 17,
+                     "division": 3,
+                     "name": "Champion II Division 3",
+                     "id": "champion-2"
+                  },
+                  "score": 310
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 372.8299,
+                  "name": "TimmyBWearsJort",
+                  "id": {
+                     "platform": "epic",
+                     "id": "97e312ed25004473b7095a51bd7703f0"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 1,
+                     "name": "Champion III Division 1",
+                     "id": "champion-3"
+                  },
+                  "score": 284
+               }
+            ]
+         }
+      },
+      {
+         "id": "c396d41c-0022-4bd3-9cb1-e05c6f6582fc",
+         "link": "https://ballchasing.com/api/replays/c396d41c-0022-4bd3-9cb1-e05c6f6582fc",
+         "rocket_league_id": "28232BC440F2E96434ECD4B1E7960A03",
+         "replay_title": "2023-01-14.00.59 MATT Private Win",
+         "map_code": "eurostadium_p",
+         "map_name": "Mannfield",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 397,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:59:03-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:06.488641Z",
+         "uploader": {
+            "steam_id": "76561198871550784",
+            "name": "MATT",
+            "profile_url": "https://steamcommunity.com/profiles/76561198871550784/",
+            "avatar": "https://avatars.akamai.steamstatic.com/e832584ef6a478fc1a84c70f8a4d05108c49eeed.jpg"
+         },
+         "blue": {
+            "goals": 8,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 397.2335,
+                  "name": "MATT",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198871550784"
+                  },
+                  "mvp": true,
+                  "score": 1431
+               }
+            ]
+         },
+         "orange": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 2.0522099,
+                  "end_time": 397.2335,
+                  "name": "Thiqxx",
+                  "id": {
+                     "platform": "epic",
+                     "id": "ff7db05445e84145a3ba7b16ebc2aa0e"
+                  },
+                  "score": 751
+               }
+            ]
+         }
+      },
+      {
+         "id": "1073ba40-5e75-46fa-9d55-600f47ef125d",
+         "link": "https://ballchasing.com/api/replays/1073ba40-5e75-46fa-9d55-600f47ef125d",
+         "rocket_league_id": "242E2F444D8D827C12C0DDA4D4F5E9EB",
+         "replay_title": "2023-01-13.20.59 TheBrigggy Private Loss",
+         "map_code": "eurostadium_night_p",
+         "map_name": "Mannfield (Night)",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 460,
+         "overtime": true,
+         "overtime_seconds": 34,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T20:59:03-09:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:06.070721Z",
+         "uploader": {
+            "steam_id": "76561199128122583",
+            "name": "Brigga The Friendly",
+            "profile_url": "https://steamcommunity.com/profiles/76561199128122583/",
+            "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+         },
+         "blue": {
+            "goals": 7,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 460.4901,
+                  "name": "Trevonator8",
+                  "id": {
+                     "platform": "epic",
+                     "id": "1e613f377cf345fbaece5520636d3a12"
+                  },
+                  "mvp": true,
+                  "score": 1426
+               }
+            ]
+         },
+         "orange": {
+            "goals": 6,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 460.4901,
+                  "name": "TheBrigggy",
+                  "id": {
+                     "platform": "epic",
+                     "id": "30be51f94ebc4ff0b410213ce1336616"
+                  },
+                  "score": 1366
+               }
+            ]
+         }
+      },
+      {
+         "id": "2878e97d-c552-457a-8415-27c2e3b795ea",
+         "link": "https://ballchasing.com/api/replays/2878e97d-c552-457a-8415-27c2e3b795ea",
+         "rocket_league_id": "287E0672436DD765FD1D0BAF6E784B7D",
+         "replay_title": "2023-01-13.22.58 harry Ranked Standard Win",
+         "map_code": "outlaw_p",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 349,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T22:58:44-07:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:05.546654Z",
+         "min_rank": {
+            "tier": 20,
+            "division": 1,
+            "name": "Grand Champion II Division 1",
+            "id": "grand-champion-2"
+         },
+         "max_rank": {
+            "tier": 20,
+            "division": 1,
+            "name": "Grand Champion II Division 1",
+            "id": "grand-champion-2"
+         },
+         "uploader": {
+            "steam_id": "76561198310067516",
+            "name": "h",
+            "profile_url": "https://steamcommunity.com/id/Harrysanzzz/",
+            "avatar": "https://avatars.akamai.steamstatic.com/afe620eae630efcf0d4b50353189d28d2039a315.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 349.64642,
+                  "name": "garrett17.",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198355707865"
+                  },
+                  "mvp": true,
+                  "score": 450
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 349.64642,
+                  "name": "><",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199050872280"
+                  },
+                  "score": 422
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 349.64642,
+                  "name": "harry",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198310067516"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 1,
+                     "name": "Grand Champion II Division 1",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 281
+               }
+            ]
+         },
+         "orange": {
+            "goals": 1,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 349.64642,
+                  "name": "IRULE-_-ThEsKiEs",
+                  "id": {
+                     "platform": "ps4",
+                     "id": "IRULE-_-ThEsKiEs"
+                  },
+                  "rank": {
+                     "tier": 20,
+                     "division": 1,
+                     "name": "Grand Champion II Division 1",
+                     "id": "grand-champion-2"
+                  },
+                  "score": 262
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 349.64642,
+                  "name": "OctaneRacer",
+                  "id": {
+                     "platform": "epic",
+                     "id": "a608836e69fa4831b6d2ecddb70f826b"
+                  },
+                  "score": 208
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 349.64642,
+                  "name": "Cimbol",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198840522024"
+                  },
+                  "score": 195
+               }
+            ]
+         }
+      },
+      {
+         "id": "474bcdc1-66bf-4499-a1b2-f510e0bce346",
+         "link": "https://ballchasing.com/api/replays/474bcdc1-66bf-4499-a1b2-f510e0bce346",
+         "rocket_league_id": "935D5BA24AB8DBD10B13A99A9640A4B9",
+         "replay_title": "2023-01-13.23.58 SoonerToucan Ranked Doubles Loss",
+         "map_code": "eurostadium_rainy_p",
+         "map_name": "Mannfield (Stormy)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 319,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:58:59-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:04.904953Z",
+         "min_rank": {
+            "tier": 14,
+            "division": 1,
+            "name": "Diamond II Division 1",
+            "id": "diamond-2"
+         },
+         "max_rank": {
+            "tier": 15,
+            "division": 1,
+            "name": "Diamond III Division 1",
+            "id": "diamond-3"
+         },
+         "uploader": {
+            "steam_id": "76561198010566983",
+            "name": "SoonerToucan",
+            "profile_url": "https://steamcommunity.com/profiles/76561198010566983/",
+            "avatar": "https://avatars.akamai.steamstatic.com/ce7370da365b59afa687c36a59b65e419edd7009.jpg"
+         },
+         "blue": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 319.6233,
+                  "name": "firmhamster",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198368260685"
+                  },
+                  "score": 522
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 319.6233,
+                  "name": "SoonerToucan",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198010566983"
+                  },
+                  "rank": {
+                     "tier": 14,
+                     "division": 3,
+                     "name": "Diamond II Division 3",
+                     "id": "diamond-2"
+                  },
+                  "score": 309
+               }
+            ]
+         },
+         "orange": {
+            "goals": 6,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 319.6233,
+                  "name": "clammyone",
+                  "id": {
+                     "platform": "epic",
+                     "id": "b00e4a8e4a424c7c9cfa64005e978117"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 14,
+                     "division": 1,
+                     "name": "Diamond II Division 1",
+                     "id": "diamond-2"
+                  },
+                  "score": 741
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 319.6233,
+                  "name": "Dr. Bangerz MD",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198812379849"
+                  },
+                  "rank": {
+                     "tier": 15,
+                     "division": 1,
+                     "name": "Diamond III Division 1",
+                     "id": "diamond-3"
+                  },
+                  "score": 631
+               }
+            ]
+         }
+      },
+      {
+         "id": "567473f0-110c-483d-8961-fc1041a543bb",
+         "link": "https://ballchasing.com/api/replays/567473f0-110c-483d-8961-fc1041a543bb",
+         "rocket_league_id": "38B2A64349F642E047C6038FA7A964DF",
+         "replay_title": "2023-01-13.22.58 EnduringGuerila Ranked Doubles Loss",
+         "map_code": "outlaw_p",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 399,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T22:58:59-07:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:01.697136Z",
+         "min_rank": {
+            "tier": 19,
+            "division": 2,
+            "name": "Grand Champion I Division 2",
+            "id": "grand-champion-1"
+         },
+         "max_rank": {
+            "tier": 19,
+            "division": 2,
+            "name": "Grand Champion I Division 2",
+            "id": "grand-champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561198029736450",
+            "name": "EnduringGuerila",
+            "profile_url": "https://steamcommunity.com/id/enduringguerila/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b1523b5974860ccd3b99cb115aa4d212975f5e92.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 399.42087,
+                  "name": "Hsoj",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198865128431"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 2,
+                     "name": "Grand Champion I Division 2",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 535
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 399.42087,
+                  "name": "EnduringGuerila",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198029736450"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 2,
+                     "name": "Grand Champion I Division 2",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 363
+               }
+            ]
+         },
+         "orange": {
+            "goals": 8,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 399.42087,
+                  "name": "tokn",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198938607880"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 19,
+                     "division": 2,
+                     "name": "Grand Champion I Division 2",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 916
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 399.42087,
+                  "name": "xsysco",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199054150825"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 2,
+                     "name": "Grand Champion I Division 2",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 737
+               }
+            ]
+         }
+      },
+      {
+         "id": "a67e41f8-2fb3-4d7b-90a1-bd8955160a5d",
+         "link": "https://ballchasing.com/api/replays/a67e41f8-2fb3-4d7b-90a1-bd8955160a5d",
+         "rocket_league_id": "A746436A47E6C51D35CD52A43E63F73A",
+         "replay_title": "Pre WIN!!!",
+         "map_code": "cs_p",
+         "map_name": "Champions Field",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 242,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T23:58:58-06:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:59:00.990196Z",
+         "min_rank": {
+            "tier": 15,
+            "division": 1,
+            "name": "Diamond III Division 1",
+            "id": "diamond-3"
+         },
+         "max_rank": {
+            "tier": 16,
+            "division": 3,
+            "name": "Champion I Division 3",
+            "id": "champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561199071696293",
+            "name": "Futurelordz",
+            "profile_url": "https://steamcommunity.com/profiles/76561199071696293/",
+            "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4e/4e828a9924f5f6cfe8de5acf3fe69a6868d03223.jpg"
+         },
+         "blue": {
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 242.69891,
+                  "name": "Futurelordz",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561199071696293"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 2,
+                     "name": "Champion I Division 2",
+                     "id": "champion-1"
+                  },
+                  "score": 180
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 242.69891,
+                  "name": "urchn ^^",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198313031148"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 2,
+                     "name": "Champion I Division 2",
+                     "id": "champion-1"
+                  },
+                  "score": 54
+               }
+            ]
+         },
+         "orange": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 242.69891,
+                  "name": "Papii josee",
+                  "id": {
+                     "platform": "epic",
+                     "id": "87f7e7eaf7dc41f794fca8ae1883c698"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 16,
+                     "division": 3,
+                     "name": "Champion I Division 3",
+                     "id": "champion-1"
+                  },
+                  "score": 466
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 242.69891,
+                  "name": "J1Drifts",
+                  "id": {
+                     "platform": "epic",
+                     "id": "36946bc5073c43228ad3b18060379535"
+                  },
+                  "rank": {
+                     "tier": 15,
+                     "division": 1,
+                     "name": "Diamond III Division 1",
+                     "id": "diamond-3"
+                  },
+                  "score": 400
+               }
+            ]
+         }
+      },
+      {
+         "id": "b79165e4-6c29-4011-9811-3a99e9315b3b",
+         "link": "https://ballchasing.com/api/replays/b79165e4-6c29-4011-9811-3a99e9315b3b",
+         "rocket_league_id": "B4E2DF37443174A3EF4A6FBA44302327",
+         "replay_title": "2023-01-13.22.58 VxJasonxV Ranked Doubles Loss",
+         "map_code": "wasteland_s_p",
+         "map_name": "Wasteland (Standard)",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 371,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T22:58:56-07:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:58:59.435957Z",
+         "min_rank": {
+            "tier": 16,
+            "division": 1,
+            "name": "Champion I Division 1",
+            "id": "champion-1"
+         },
+         "max_rank": {
+            "tier": 16,
+            "division": 1,
+            "name": "Champion I Division 1",
+            "id": "champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561197969430701",
+            "name": "VxJasonxV",
+            "profile_url": "https://steamcommunity.com/id/vxjasonxv/",
+            "avatar": "https://avatars.akamai.steamstatic.com/410f1fc70e4a3d438195ec705f051c0c5fcb89f6.jpg"
+         },
+         "blue": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 371.05197,
+                  "name": "J4R3Dcou2",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "34fa3f0900000900"
+                  },
+                  "mvp": true,
+                  "score": 575
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 371.05197,
+                  "name": "Envo Echo",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "8c76145cf3010900"
+                  },
+                  "score": 334
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 371.05197,
+                  "name": "VxJasonxV",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561197969430701"
+                  },
+                  "rank": {
+                     "tier": 16,
+                     "division": 1,
+                     "name": "Champion I Division 1",
+                     "id": "champion-1"
+                  },
+                  "score": 530
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 371.05197,
+                  "name": "Kladde88",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "6f8de324fd010900"
+                  },
+                  "score": 425
+               }
+            ]
+         }
+      },
+      {
+         "id": "4424b332-dc17-4b3a-a649-4c1621abb27c",
+         "link": "https://ballchasing.com/api/replays/4424b332-dc17-4b3a-a649-4c1621abb27c",
+         "rocket_league_id": "CEF1F0DE45CB1D5B3E3CA3907197D842",
+         "replay_title": "2023-01-13.21.58 Dinky Ranked Standard Loss",
+         "map_code": "fni_stadium_p",
+         "playlist_id": "ranked-standard",
+         "playlist_name": "Ranked Standard",
+         "duration": 363,
+         "overtime": false,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-13T21:58:44-08:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:58:55.302165Z",
+         "min_rank": {
+            "tier": 18,
+            "division": 1,
+            "name": "Champion III Division 1",
+            "id": "champion-3"
+         },
+         "max_rank": {
+            "tier": 18,
+            "division": 2,
+            "name": "Champion III Division 2",
+            "id": "champion-3"
+         },
+         "uploader": {
+            "steam_id": "76561198173242097",
+            "name": "Dinky",
+            "profile_url": "https://steamcommunity.com/id/Diinky/",
+            "avatar": "https://avatars.akamai.steamstatic.com/28f8a915dde53fe08524e53d15260c3f9b081608.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 363.5583,
+                  "name": "Dinky",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198173242097"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 1,
+                     "name": "Champion III Division 1",
+                     "id": "champion-3"
+                  },
+                  "score": 422
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 363.5583,
+                  "name": "Deadlybyte",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198170637775"
+                  },
+                  "score": 296
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 363.5583,
+                  "name": "WadePlayz",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198168810134"
+                  },
+                  "score": 286
+               }
+            ]
+         },
+         "orange": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 363.5583,
+                  "name": "DMFLM",
+                  "id": {
+                     "platform": "epic",
+                     "id": "e8cd6edbc1d4462382555fe09a615cae"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 18,
+                     "division": 2,
+                     "name": "Champion III Division 2",
+                     "id": "champion-3"
+                  },
+                  "score": 599
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 363.5583,
+                  "name": "Punya",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561197978146340"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 2,
+                     "name": "Champion III Division 2",
+                     "id": "champion-3"
+                  },
+                  "score": 595
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 363.5583,
+                  "name": "SkipityHip",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198114088450"
+                  },
+                  "rank": {
+                     "tier": 18,
+                     "division": 2,
+                     "name": "Champion III Division 2",
+                     "id": "champion-3"
+                  },
+                  "score": 292
+               }
+            ]
+         }
+      },
+      {
+         "id": "8f2bd3a2-b164-4d76-ace1-7ee20641dfd0",
+         "link": "https://ballchasing.com/api/replays/8f2bd3a2-b164-4d76-ace1-7ee20641dfd0",
+         "rocket_league_id": "F80C07414BE2DE41C8DAFF8AB868ED21",
+         "replay_title": "auto upload 2023-01-14.00.58 Huge1000 Ranked Doubles Loss",
+         "map_code": "eurostadium_p",
+         "map_name": "Mannfield",
+         "playlist_id": "ranked-doubles",
+         "playlist_name": "Ranked Doubles",
+         "duration": 433,
+         "overtime": true,
+         "overtime_seconds": 80,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T00:58:54-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:58:54.588443Z",
+         "min_rank": {
+            "tier": 19,
+            "division": 1,
+            "name": "Grand Champion I Division 1",
+            "id": "grand-champion-1"
+         },
+         "max_rank": {
+            "tier": 19,
+            "division": 1,
+            "name": "Grand Champion I Division 1",
+            "id": "grand-champion-1"
+         },
+         "uploader": {
+            "steam_id": "76561198189292667",
+            "name": "Huge1000",
+            "profile_url": "https://steamcommunity.com/id/huge1000/",
+            "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+         },
+         "blue": {
+            "goals": 2,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 433.18735,
+                  "name": "grass and dirt",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "e381f90300000900"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 1,
+                     "name": "Grand Champion I Division 1",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 726
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 433.18735,
+                  "name": "Huge1000",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198189292667"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 1,
+                     "name": "Grand Champion I Division 1",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 422
+               }
+            ]
+         },
+         "orange": {
+            "goals": 3,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 433.18735,
+                  "name": "Top G",
+                  "id": {
+                     "platform": "steam",
+                     "id": "76561198283916160"
+                  },
+                  "mvp": true,
+                  "rank": {
+                     "tier": 19,
+                     "division": 1,
+                     "name": "Grand Champion I Division 1",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 788
+               },
+               {
+                  "start_time": 0,
+                  "end_time": 433.18735,
+                  "name": "BubzyWan",
+                  "id": {
+                     "platform": "epic",
+                     "id": "783c880eb95547098dccbcf4cdaf434e"
+                  },
+                  "rank": {
+                     "tier": 19,
+                     "division": 1,
+                     "name": "Grand Champion I Division 1",
+                     "id": "grand-champion-1"
+                  },
+                  "score": 620
+               }
+            ]
+         }
+      },
+      {
+         "id": "35f92efc-b9d5-45c9-886e-c56160e87694",
+         "link": "https://ballchasing.com/api/replays/35f92efc-b9d5-45c9-886e-c56160e87694",
+         "rocket_league_id": "4D851F864BDA8DA09A36378794DE7162",
+         "replay_title": "2023-01-14.01.00 SquidyArcher Private Loss",
+         "map_code": "cs_p",
+         "map_name": "Champions Field",
+         "playlist_id": "private",
+         "playlist_name": "Private",
+         "duration": 448,
+         "overtime": true,
+         "overtime_seconds": 331,
+         "season": 9,
+         "season_type": "free2play",
+         "date": "2023-01-14T01:00:58-05:00",
+         "date_has_tz": true,
+         "visibility": "public",
+         "created": "2023-01-14T05:58:54.58133Z",
+         "uploader": {
+            "steam_id": "76561198841516060",
+            "name": "Squidy",
+            "profile_url": "https://steamcommunity.com/profiles/76561198841516060/",
+            "avatar": "https://avatars.akamai.steamstatic.com/75778510cdd3edf50f9951bae461405defcb8118.jpg"
+         },
+         "blue": {
+            "goals": 8,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 448.19165,
+                  "name": "Silentdeath1018",
+                  "id": {
+                     "platform": "epic",
+                     "id": "ab8ea0f8e7b644588df3e35a4cf52192"
+                  },
+                  "mvp": true,
+                  "score": 948
+               },
+               {
+                  "start_time": 3.0775566,
+                  "end_time": 448.19165,
+                  "name": "NE ViZion6076",
+                  "id": {
+                     "platform": "xbox",
+                     "id": "2ead145bfe010900"
+                  },
+                  "score": 882
+               }
+            ]
+         },
+         "orange": {
+            "goals": 4,
+            "players": [
+               {
+                  "start_time": 0,
+                  "end_time": 448.19165,
+                  "name": "SquidyArcher",
+                  "id": {
+                     "platform": "epic",
+                     "id": "379e58e5734842e193ffe3dcfb212ed7"
+                  },
+                  "score": 1051
+               }
+            ]
+         }
+      }
+   ],
+   "next": "https://ballchasing.com/api/replays?after=MS42NzM2NzU5MzQ1ODFlKzEyXzM1ZjkyZWZjLWI5ZDUtNDVjOS04ODZlLWM1NjE2MGU4NzY5NA%3D%3D"
+}
