@@ -3,7 +3,7 @@ import os
 import json
 import time
 
-MAX_COUNT = 10  # max count for replays defined in api docs
+MAX_COUNT = 200  # max count for replays defined in api docs
 
 auth_token = os.getenv("BALLCHASING-API")
 
@@ -28,7 +28,7 @@ start = time.time()
 i = 0
 
 while True:
-    if i >= len(ids):
+    while i >= len(ids):
         new_replays = requests.get(f"https://ballchasing.com/api/replays{parse_url_params(replays_params)}", headers={"Authorization": auth_token}).json()
         new_ids = [ replay["id"] for replay in replays["list"]]
         # removes ids that have been done
