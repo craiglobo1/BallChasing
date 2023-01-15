@@ -26,6 +26,7 @@ print(f"[NEW] Replenishing {len(ids)}")
 start = time.time()
 
 i = 0
+total_count= 0
 
 while True:
     while i >= len(ids):
@@ -38,12 +39,13 @@ while True:
 
     req = requests.get(f"https://ballchasing.com/api/replays/{ids[i]}/file", headers={"Authorization": auth_token})
 
-    with open(f"replays/{ids[i]}.replay", "wb+") as wf:
-        wf.write(req.content)
-    
     if req.status_code == 200:
-        print(f"id_{i}: {time.time()-start:.4f}")
+        with open(f"replays/{ids[i]}.replay", "wb+") as wf:
+            wf.write(req.content)
+        total_count += 1
+        print(f"id_{total_count}: {time.time()-start:.4f}")
         start = time.time()
+    # when times out due to rate limiting may add something later
     elif req.status_code == 429:
         print(f"ERROR: {req.json()['error']}")
     else:
