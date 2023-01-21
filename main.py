@@ -17,6 +17,7 @@ replays_params = {
 }
 
 replays = requests.get(f"https://ballchasing.com/api/replays{parse_url_params(replays_params)}", headers={"Authorization": auth_token}).json()
+
 ids = [ replay["id"] for replay in replays["list"]]
 
 # removes ids that have been done
@@ -43,8 +44,9 @@ while True:
         with open(f"replays/{ids[i]}.replay", "wb+") as wf:
             wf.write(req.content)
         total_count += 1
-        print(f"id_{total_count}: {time.time()-start:.4f}")
+        print(f"[ID {ids[i]}] {total_count}: {time.time()-start:.4f}")
         start = time.time()
+        
     # when times out due to rate limiting may add something later
     elif req.status_code == 429:
         print(f"ERROR: {req.json()['error']}")
