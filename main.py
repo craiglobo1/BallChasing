@@ -12,8 +12,15 @@ def parse_url_params(params : dict):
 
 done_ids = set([ file[:-7] for file in os.listdir("replays")])
 
+sort_by = ["replay-date", "upload-date"]
+sort_dir = [ "asc", "desc"]
+match_result = ["win", "loss"]
+
+
 replays_params = {
-    "count": MAX_COUNT, 
+    "count": MAX_COUNT,
+    # diamond-3 champion-1 champion-2 champion-3 grand-champion
+    "min-rank" : "diamond-3"
 }
 
 replays = requests.get(f"https://ballchasing.com/api/replays{parse_url_params(replays_params)}", headers={"Authorization": auth_token}).json()
